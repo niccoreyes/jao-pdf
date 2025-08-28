@@ -1,1 +1,5 @@
 .env
+.venv/
+csv_chunks
+oversized_chunks
+pdf_chunks

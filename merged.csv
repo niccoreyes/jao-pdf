@@ -1,0 +1,1099 @@
+﻿chunk_10_table_1.csv,,,"If the case currently resides in a closed setting such as jails, penitentiaries, and mental institutions.",
+chunk_10_table_1.csv,32,Specify closed setting if yes.,"Specify closed setting if yes. Closed setting includes prisons, residential facilities, retirement communities, care homes, camps, etc.",
+chunk_10_table_1.csv,Contact Tracing,,,
+chunk_10_table_1.csv,31,"History of Exposure to known probable and/or confirmed COVID-19 case 14 days before the onset of signs and symptoms, or if asymptomatic, 14 days before swabbing or specimen collection.","If the patient has history of Exposure to known probable and/or confirmed COVID- 19 case 14 days before the onset of signs and symptoms, or if asymptomatic, 14 days before swabbing or specimen collection, yes or no.",1. DOH AO 2020-0013: Inclusion of COVID- 19 in the List of Notifiable Diseases 2. DOH DM 2020-0436: Minimum Data Requirements of COVID-19-Related Information Systems 3. Included in the COVID-19 Case Investigation Form
+chunk_10_table_1.csv,32,"If yes, date of last contact.",,
+chunk_10_table_1.csv,33,"Exposure to place with known COVID-19 community transmission 14 days before the onset of signs and symptoms, or if asymptomatic, 14 days before swabbing or specimen collection","If the patient has history of exposure to place with known COVID-19 community transmission 14 days before the onset of signs and symptoms, or if asymptomatic, 14 days before swabbing or specimen collection, yes or no.",
+chunk_10_table_1.csv,34,"If yes, date of visit.","If yes, date of visit.",
+chunk_10_table_1.csv,35,"If yes, specify place and other details.","If yes, specify place, and provide details such as name of establishment, transport service, venue, location, etc.",
+chunk_10_table_1.csv,COMPOSITE MEASURES FOR ESSENTIAL LGU ROLES FOR COVID-19 RESPONSE,,,
+chunk_10_table_1.csv,36,Functional Local Epidemiologic Surveillance Unit (LESU),"Presence of all six components of an
+organized ESU: 1. Direction: Executive Order/Ordinance on establishment of the ESU 2. ESU Staff composed of a Team Leader","DOH AO 2019-0027: Guidelines on the
+Implementation of the Local Government Unit Health Scorecard"
+chunk_11_table_1.csv,,,"· Numerator: Number of cases who tested positive for COVID-19 through laboratory confirmation at the national reference laboratory, subnational reference laboratory, or a DOH-certified laboratory testing facility . Denominator: Number of identified individuals who may have come into contact with the confirmed case two days prior to onset of illness of the confirmed COVID-19 case","Disease 2019 (COVID-19) Situation"" dated May 26, 2020"
+chunk_11_table_1.csv,39,Contact Tracing Personnel to Population Ratio,"Ratio of the Contact Tracing Personnel to the LGU population . Numerator: Number of Contact Tracers hired, designated, or detailed . Denominator: LGU Population (projection or actual 2015 census)",DOH AO 2020-0016: Minimum Health System Capacity Standards for COVID-19 Preparedness and Response Strategies
+chunk_11_table_1.csv,40,Percent of Contact Tracers trained,Percent of Contact Tracers trained by the Regional/ Provincial/ Municipal/ City Epidemiology and Surveillance Unit . Numerator: Number of Contact Tracers trained . Denominator: Total number of Contact Tracers · Multiplier: 100,IATF-EID Operation LISTO Protocol
+chunk_11_table_1.csv,41,Designation or organization of contact tracing team to be available 24/7,Presence of designated/organized contact tracing team available 24/7,IATF-EID Operation LISTO Protocol
+chunk_11_table_1.csv,42,"Percentage of close contacts, probable cases, suspect cases, and asymptomatic or mild confirmed cases under Home Quarantine","Home isolated cases are those confined in their current residence with-in a well- ventilated room, preferably with toilet and bathroom and are not admitted in a hospital",1. DOH DM 2020-0189: Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID- 19) Cases
+chunk_13_table_1.csv,,,beds · Multiplier: 100,
+chunk_13_table_1.csv,PhilHealth Package,,,
+chunk_13_table_1.csv,1,Benefit Package Type,"Case Rate, Z-Benefit, MCP Package, Maternal Care, TB DOTS Package, Newborn Package, Outpatient HIV/AIDS Treatment Package",PhilHealth eClaims Forms.
+chunk_13_table_1.csv,2,Benefit Package Code,Benefit Package Code depending on benefit package type,
+chunk_13_table_1.csv,3,First Case Rate,"For Case Rate, first case rate",
+chunk_13_table_1.csv,4,Second Case Rate,"For Case Rate, second case rate",
+chunk_13_table_1.csv,5,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_13_table_1.csv,6,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_13_table_1.csv,7,Date of Last Update,Date data was last updated,
+chunk_13_table_1.csv,8,Time of Last Update,Time data was last updated,
+chunk_13_table_1.csv,Overseas Employment,,,
+chunk_13_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_13_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_13_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_14_table_1.csv,21,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_14_table_1.csv,22,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_14_table_1.csv,23,Date of Last Update,Date data was last updated,
+chunk_14_table_1.csv,24,Time of Last Update,Time data was last updated,
+chunk_14_table_1.csv,ALERT,,,
+chunk_14_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_14_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_14_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_14_table_1.csv,4,Alert identifier,Alert identifier as represented by a code.,Captured in PhilHealth Membership Registration and Claims Forms
+chunk_14_table_1.csv,5,Type of Allergy/Intolerance,"Risk of harmful or undesirable, physiological response which is unique to an individual and associated with exposure to a substance; Codes for Allergy, Intolerance",DOH Hospital Health Information Management Manual
+chunk_14_table_1.csv,6,Category,"Category of allergy (i.e. food, medication, environment, biologic) as represented by a code.",
+chunk_14_table_1.csv,7,Category Description,Category description as represented by a code.,
+chunk_15_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_15_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013- 0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_15_table_1.csv,4,Date of Complication,Date the patient experienced complication,DOH Hospital Health Information Management Manual 1
+chunk_15_table_1.csv,5,Time of Complication,Time of the patient experienced complication,
+chunk_15_table_1.csv,6,Complication,Complication experienced by the patient,
+chunk_15_table_1.csv,7,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_15_table_1.csv,8,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_15_table_1.csv,9,Date of Last Update,Date data was last updated,
+chunk_15_table_1.csv,10,Time of Last Update,Time data was last updated,
+chunk_15_table_1.csv,DIAGNOSIS,,,
+chunk_15_table_1.csv,L,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_15_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_15_table_1.csv,3,PhilHealth Identification Number,A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of,1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001).
+chunk_16_table_1.csv,,,"identification, eligibility verification, and utilization recording.",2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_16_table_1.csv,4,Date Diagnosed,The date when the patient was diagnosed,DOH Hospital Health Information Management Manual
+chunk_16_table_1.csv,5,Time Diagnosed,Time the patient was diagnosed,
+chunk_16_table_1.csv,6,Diagnosis Type,Type of diagnosis as represented by a code.,
+chunk_16_table_1.csv,7,Diagnosis Code,Diagnosis as represented by a code.,
+chunk_16_table_1.csv,8,Diagnosis Description,Diagnosis description,
+chunk_16_table_1.csv,9,Diagnosis Remarks,Diagnosis remarks,
+chunk_16_table_1.csv,10,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_16_table_1.csv,11,Time of Initial Transmission,Time data was transmitted to National Ilealth Data Center,
+chunk_16_table_1.csv,12,Date of Last Update,Date data was last updated,
+chunk_16_table_1.csv,13,Time of Last Update,Time data was last updated,
+chunk_16_table_1.csv,MATERNAL CARE,,,
+chunk_16_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_16_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_16_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_16_table_1.csv,4,Date of Prenatal Checkup,The date of the patient's prenatal checkup,DOH Hospital Health Information Management Manual
+chunk_16_table_1.csv,5,Time of Prenatal Checkup,The time of the patient's prenatal checkup,
+chunk_16_table_1.csv,6,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_17_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_17_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013- 0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_17_table_1.csv,4,Vaccine Type,Type of Anti Rabies Vaccine / Rabies Immunoglobulin administered as represented by a code.,DOH AO 2018-0013: Revised Guidelines on the Management of Rabies Exposures
+chunk_17_table_1.csv,5,Others Description,"If others, specify",
+chunk_17_table_1.csv,6,Date Given,Date the vaccine was given,
+chunk_17_table_1.csv,7,Time Given,Time the vaccine was given,
+chunk_17_table_1.csv,8,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_17_table_1.csv,9,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_17_table_1.csv,10,Date of Last Update,Date data was last updated,
+chunk_17_table_1.csv,11,Time of Last Update,Time data was last updated,
+chunk_17_table_1.csv,ESSENTIAL NEWBORN CARE,,,
+chunk_17_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_17_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_17_table_1.csv,3,PhilHealth Identification Number,A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance,1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and
+chunk_18_table_1.csv,5,Time Given,Time administered the immunization,"1. RA10152: Mandatory Basic Immunization Services for Infants and Children 2. DOH AO No. 2011-0010: Implementing Procedures and Guidelines in Reporting Field Health Services Data to The DOH Central Office."""
+chunk_18_table_1.csv,6,Immunization,Immunization Code: BCG / OPV1 / OPV2 / OPV3/ DPT 1 / DPT 2 / DPT 3 /Measles / Hepatitis B1 / Hepatitis B2 / Hepatitis B2 / Hepatitis A / Varicella - Chicken Pox / Others,
+chunk_18_table_1.csv,7,Immunization Others,"Other immunization, specify",
+chunk_18_table_1.csv,8,Immunization Remarks,Immunization Remarks,
+chunk_18_table_1.csv,9,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_18_table_1.csv,10,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_18_table_1.csv,11,Date of Last Update,Date data was last updated,
+chunk_18_table_1.csv,12,Time of Last Update,Time data was last updated,
+chunk_18_table_1.csv,MENSTRUAL HISTORY,,,
+chunk_18_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_18_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_18_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_18_table_1.csv,4,Age of First Menstruation (Menarche),Age of first menstruation (Menarche),1. DOH Hospital Health Information Management Manual 2. IRR of RA 10354: Responsible Parenthood
+chunk_18_table_1.csv,5,Date of Last Menstrual Period,Date of last menstrual period,
+chunk_19_table_1.csv,,,"identification, eligibility verification, and utilization recording.",
+chunk_19_table_1.csv,4,Number of Pregnancy to Date-Gravity Chief,Number of Pregnancy to Date -Gravity Chief,
+chunk_19_table_1.csv,5,Number of Delivery to Date -Parity,Number of Delivery to Date -Parity,
+chunk_19_table_1.csv,6,OB/GYN History ( --- ),OB/GYN History ( --- ),
+chunk_19_table_1.csv,7,Type of Delivery,"""N"" - Normal (NSD), ""C"" - Operative (CSD), ""B"" - Both Normal & Operative (NSD & CSD), ""X"" - Not applicable",
+chunk_19_table_1.csv,8,Number of Full Term Pregnancy,Number of pregnancies that reached full term,
+chunk_19_table_1.csv,9,Number of Premature births,Number of premature births,
+chunk_19_table_1.csv,10,Number of Abortion,Number of abortions,
+chunk_19_table_1.csv,11,Number of Living Children,Number of living children,
+chunk_19_table_1.csv,12,If Pregnancy - Induced Hypertension (Pre - Eclampsia),"Yes, No/None",
+chunk_19_table_1.csv,13,If with access to Family Planning Counselling,"Yes, No/None",
+chunk_19_table_1.csv,14,If Pregnancy History Applicable,Yes/No,
+chunk_19_table_1.csv,15,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_19_table_1.csv,16,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_19_table_1.csv,17,Date of Last Update,Date data was last updated,
+chunk_19_table_1.csv,18,Time of Last Update,Time data was last updated,
+chunk_1_table_1.csv,DATA ELEMENT,,DEFINITION,SOURCE OF DEFINITION
+chunk_1_table_1.csv,MASTER PERSON DATA,,,
+chunk_1_table_1.csv,1,PhilHealth Identification Number (Member or Dependent) 1,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_1_table_1.csv,2,PhilSys Number,"A randomly generated, unique, and permanent identification number that will be assigned to every citizen or resident alien upon birth or registration by the PSA.",Republic Act 11055: Philippine Identification System Act
+chunk_1_table_1.csv,3,Taxpayer Identification Number,"A nine-digit number assigned by the Bureau of Internal Revenue (plus a three-digit branch code, if applicable) to any person, whether natural or juridical, required under the authority of the Internal Revenue Code to make, render or file a return, statement or other documents for his proper identification for tax purposes",Section 236 (i) of the Tax Code.
+chunk_1_table_1.csv,4,Passport Number,"A unique identification code issued by the Philippine government to its citizens and requesting other governments to allow its citizens to pass safely and freely, and in case of need to give him/her all lawful aid and protection.",Republic Act 8239: Philippine Passport Act of 1996.
+chunk_1_table_1.csv,5,Person with Disability (PWD) Identification Number,A unique identification code issued to any bonafide person with permanent disability.,NCDA Administrative Order No. 001 Series of 2008: Guidelines on the Issuance of
+chunk_20_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",
+chunk_20_table_1.csv,2,Health Facility Code (for the requesting facility),DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR). Facility that requests the diagnostic test.,
+chunk_20_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",
+chunk_20_table_1.csv,4,Type of Laboratory,Type of laboratory test as represented by a code.,
+chunk_20_table_1.csv,5,Type of Specimen,Type of specimen that will be transported for testing,
+chunk_20_table_1.csv,6,Specimen collection date,Date the specimen was collected,
+chunk_20_table_1.csv,7,Specimen received date,Date the specimen was received by the testing facility,
+chunk_20_table_1.csv,8,Results received date,Date the results was received,
+chunk_20_table_1.csv,9,Test Result,Test result of the diagnostic test requested,
+chunk_20_table_1.csv,10,Specimen Reference #,The laboratory reference # of the specimen,
+chunk_20_table_1.csv,11,Result Reference #,The result reference #,
+chunk_20_table_1.csv,12,Virus Isolation Result,Virus isolation result,
+chunk_20_table_1.csv,13,PCR Result,Polymeraise Chain Reaction Result,
+chunk_20_table_1.csv,14,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_21_table_1.csv,,,"registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",
+chunk_21_table_1.csv,4,Specimen Reference #,Laboratory Reference # of the specimen,
+chunk_21_table_1.csv,5,Result Reference #,Test result reference #,
+chunk_21_table_1.csv,6,Date of Result,Date the result was released,
+chunk_21_table_1.csv,7,Time of Result,Time the result was released,
+chunk_21_table_1.csv,8,Value for Hematocrit,Value for Hematocrit,
+chunk_21_table_1.csv,9,Value for Hemoglobin in g/dL,Value for Hemoglobin in g/dL,
+chunk_21_table_1.csv,10,Value for Hemoglobin in mmol/L,Value for Hemoglobin in mmol/L,
+chunk_21_table_1.csv,11,Value for MHC in pg/cell,Value for MHC in pg/cell,
+chunk_21_table_1.csv,12,Value for MHC in fmol/cell,Value for MHC in fmol/cell,
+chunk_21_table_1.csv,13,Value for MCHC in fmol/cell,Value for MCHC in fmol/cell,
+chunk_21_table_1.csv,14,Value for MCHC in mmol/Hb/L,Value for MCHC in mmol/Hb/L,
+chunk_21_table_1.csv,15,Value for MCV in um^3,Value for MCV in um^3,
+chunk_21_table_1.csv,16,Value for MCV In fL,Value for MCV In fL,
+chunk_21_table_1.csv,17,Value for WBC in X 1000 cells/mm^3uL,Value for WBC in X 1000 cells/mm^3uL,
+chunk_21_table_1.csv,18,Value for WBC in X 10^9 cells/L,Value for WBC in X 10^9 cells/L,
+chunk_21_table_1.csv,19,Percentage Value of Myelocyte in Leukocyte Differential,Percentage value of Myelocyte in Leukocyte Differential,
+chunk_21_table_1.csv,20,Percentage Value of Neutrophil Bands in Leukocyte Differential,Percentage value of Neutrophil Bands in Leukocyte Differential,
+chunk_21_table_1.csv,21,Percentage Value of Neutrophil Segmenters in Leukocyte Differential,Percentage value of Neutrophil Segmenters in Leukocyte differential,
+chunk_21_table_1.csv,22,Percentage Value of Lymphocytes in Leukocyte Differential,Percentage value of Lymphocytes in Leukocyte differential,
+chunk_21_table_1.csv,23,Percentage Value of Monocytes in Leukocyte Differential,Percentage Value of Monocytes in Leukocyte differential,
+chunk_21_table_1.csv,24,Percentage Value of Eosinophils in Leukocyte Differential,Percentage value of Eosinophils in Leukocyte differential,
+chunk_21_table_1.csv,25,Percentage Value of Basophils in Leukocyte Differential,Percentage value of Basophils in Leukocyte differential,
+chunk_22_table_1.csv,10,Value for RBC (/hpf),Value for RBC (/hpf),
+chunk_22_table_1.csv,11,Value for WBC(/hpf),Value for WBC(/hpf),
+chunk_22_table_1.csv,12,Value for RBC (=/-),Value for RBC (=/-),
+chunk_22_table_1.csv,13,Value for Parasite (=/-),Value for Parasite (=/-),
+chunk_22_table_1.csv,14,Presence of Blood in Stool,Presence of Blood in Stool,
+chunk_22_table_1.csv,15,Value for Occult Blood,Value for Occult Blood,
+chunk_22_table_1.csv,16,Value for PUS Cells,Value for PUS Cells,
+chunk_22_table_1.csv,17,Date the Record was Added,Date the Record was Added,
+chunk_22_table_1.csv,18,Status of Laboratory/Imaging Results,Status of Laboratory/Imaging Results,
+chunk_22_table_1.csv,19,Diagnostic Lab Fee,Diagnostic Lab Fee,
+chunk_22_table_1.csv,20,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_22_table_1.csv,21,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_22_table_1.csv,22,Date of Last Update,Date data was last updated,
+chunk_22_table_1.csv,23,Time of Last Update,Time data was last updated,
+chunk_23_table_1.csv,5,Result Reference #,Test result reference #,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_23_table_1.csv,6,Date of Result,Date the result was released,
+chunk_23_table_1.csv,7,Time of Result,Time the result was released,
+chunk_23_table_1.csv,8,Value for Glucose in md/DI,Value for Glucose in md/Dl,
+chunk_23_table_1.csv,9,Value for Glucose in mmol/L,Value for Glucose in mmol/L,
+chunk_23_table_1.csv,10,Date the Record was Added,Date the record was added,
+chunk_23_table_1.csv,11,Status of Laboratory/ Imaging Results,Status of Laboratory/Imaging Results,
+chunk_23_table_1.csv,12,Diagnostic Lab Fee,Diagnostic Lab Fee,DOH AO 2008-0002 Posting of Schedule of Fees for Laboratory and Other
+chunk_23_table_1.csv,13,Date of Initial Transmission,Date data was transmitted to National Health Data Center,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_23_table_1.csv,14,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_23_table_1.csv,15,Date of Last Update,Date data was last updated,
+chunk_23_table_1.csv,16,Time of Last Update,Time data was last updated,
+chunk_23_table_1.csv,LABORATORY: URINALYSIS RESULTS,,,
+chunk_23_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHIcalth identification number of the patient, date and time of encounter, as represented by a code.",PhilITealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_23_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_23_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_23_table_1.csv,4,Specimen Reference #,Laboratory Reference # of the specimen,1. DOH AO 2012-0021: National Health Laboratory Network
+chunk_23_table_1.csv,5,Result Reference #,Test result reference #,
+chunk_24_table_1.csv,33,Diagnostic Lab Fee,Diagnostic laboratory fees,DOH AO 2008-0002 Posting of Schedule of Fees for Laboratory and Other Health Facilities
+chunk_24_table_1.csv,34,Date of Initial Transmission,Date data was transmitted to National Health Data Center,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_24_table_1.csv,35,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_24_table_1.csv,36,Date of Last Update,Date data was last updated,
+chunk_24_table_1.csv,37,Time of Last Update,Time data was last updated,
+chunk_24_table_1.csv,LABORATORY: FECAL OCCULT BLOOD,,,
+chunk_24_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_24_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_24_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_24_table_1.csv,4,Specimen Reference #,Laboratory Reference # of the specimen,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_24_table_1.csv,5,Result Reference #,Test result reference #,
+chunk_24_table_1.csv,6,Date of Result,Date the result was released,
+chunk_24_table_1.csv,7,Time of Result,Time the result was released,
+chunk_24_table_1.csv,8,Findings/ Result in FOBT,Findings/ Result of Fecal Occult Blood Test,
+chunk_24_table_1.csv,9,Date the Record was Added,Date the record was added,
+chunk_24_table_1.csv,10,Status of Laboratory/Imaging Results,Status of laboratory/imaging results,
+chunk_25_table_1.csv,10,Total Value of Cholesterol (mg/dL),Total Value of Cholesterol (mg/dL),
+chunk_25_table_1.csv,11,Total Value of Cholesterol (mg/dL),Total Value of Cholesterol (mg/dL),
+chunk_25_table_1.csv,12,Total Value of Triglycerides (mg/dL),Total Value of Triglycerides (mg/dL),
+chunk_25_table_1.csv,13,Status of Laboratory/ Imaging Result,Status of laboratory/imaging results,
+chunk_25_table_1.csv,14,Diagnostic Lab Fee,Diagnostic Lab Fee,DOH AO 2008-0002 Posting of Schedule of Fees for Laboratory and Other Health Facilities
+chunk_25_table_1.csv,15,Date of Initial Transmission,Date data was transmitted to National Health Data Center,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_25_table_1.csv,16,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_25_table_1.csv,17,Date of Last Update,Date data was last updated,
+chunk_25_table_1.csv,18,Time of Last Update,Time data was last updated,
+chunk_25_table_1.csv,LABORATORY: ORAL CLUCOSE TOLERANCE TEST (OGTT),,,
+chunk_25_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_25_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_25_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_25_table_1.csv,4,Specimen Reference #,Laboratory Reference # of the specimen,1. DOH AO 2012-0021: National Health
+chunk_26_table_1.csv,6,Date of Result,Date the result was released,2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_26_table_1.csv,7,Time of Result,Time the result was released,
+chunk_26_table_1.csv,8,Result in Fasting Examination (mg/dL),Result in Fasting Examination (mg/dL),
+chunk_26_table_1.csv,9,Result in Fasting Examination (mmol/L),Result in Fasting Examination (mmol/L),
+chunk_26_table_1.csv,10,Result in OGTT | Hour Examination (mg/dL),Result in OGTT | Hour Examination (mg/dL),
+chunk_26_table_1.csv,11,Result in OGTT 1 Hour Examination (mmol/L),Result in OGTT 1 Hour examination (mmol/L),
+chunk_26_table_1.csv,12,Result in OGTT 2 Hours Examination (mg/dL),Result in OGTT 2 Hours examination (mg/dL),
+chunk_26_table_1.csv,13,Result in OGTT 2 Hours Examination (mmol/L),Result in OGTT 2 Hours Examination (mmol/L),
+chunk_26_table_1.csv,14,Date the Record was Added,Date the record was added,
+chunk_26_table_1.csv,15,Status of Laboratory/ Imaging Results,Status of laboratory/ imaging results,
+chunk_26_table_1.csv,16,Diagnostic Lab Fee,Diagnostic Lab Fee,DOH AO 2008-0002 Posting of Schedule of Fees for Laboratory and Other Health Facilities
+chunk_26_table_1.csv,17,Date of Initial Transmission,Date data was transmitted to National Health Data Center,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_26_table_1.csv,18,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_26_table_1.csv,19,Date of Last Update,Date data was last updated,
+chunk_26_table_1.csv,20,Time of Last Update,Time data was last updated,
+chunk_26_table_1.csv,PROCEDURE/EXAMINATION,,,
+chunk_26_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_26_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health
+chunk_27_table_1.csv,,,"patient, date and time of encounter, as represented by a code.",
+chunk_27_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,
+chunk_27_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",
+chunk_27_table_1.csv,4,Procedure/Examination Code,Procedure Code,
+chunk_27_table_1.csv,5,Result Reference #,Result Reference #,
+chunk_27_table_1.csv,6,Date of Result,Date of Result,
+chunk_27_table_1.csv,7,Time of Result,Time of Result,
+chunk_27_table_1.csv,8,Chest X-ray Findings ID,Chest X-ray Findings ID,
+chunk_27_table_1.csv,9,Supplemental remarks on chest x-ray if with findings ID,Supplemental remarks on chest x-ray ID,
+chunk_27_table_1.csv,10,Observations based on chest -ray result ID,Observations based on chest -ray result ID,
+chunk_27_table_1.csv,11,Supplemental remarks for x-ray if with observation,Supplemental remarks for x-ray if with observation,
+chunk_27_table_1.csv,12,Status of Procedure/ Examination Results,Status of Procedure/Examination Results,
+chunk_27_table_1.csv,13,Diagnostic Lab Fee,Diagnostic Lab Fee,
+chunk_27_table_1.csv,14,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_27_table_1.csv,15,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_27_table_1.csv,16,Date of Last Update,Date data was last updated,
+chunk_27_table_1.csv,17,Time of Last Update,Time data was last updated,
+chunk_28_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_28_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_28_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (cHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_28_table_1.csv,4,Procedure Code,Procedure code # of the specimen,1. DOH Hospital Health Information Management Manual 2. DOH AO 2015-0024: Implementing Guidelines on Integrated Tuberculosis Information System (IT IS) 3. DOH AO No. 2011-0010: Implementing Procedures and Guidelines in Reporting Field Health Services Data to The DOH Central Office.
+chunk_28_table_1.csv,5,Result Reference #,Test result reference #,
+chunk_28_table_1.csv,6,Date of Result,Date the result was released,
+chunk_28_table_1.csv,7,Time of Result,Time the result was released,
+chunk_28_table_1.csv,8,Findings/Result in PPD Test,Findings/ Result in PPD Test,
+chunk_28_table_1.csv,9,Date the Record was Added,Date the Record was Added,
+chunk_28_table_1.csv,10,Status of Laboratory/ Imaging Results,Status of Laboratory/Imaging Results,
+chunk_28_table_1.csv,11,Diagnostic Lab Fee,Diagnostic Lab Fee,DOH AO 2008-0002 Posting of Schedule of Fees for Laboratory and Other Health Facilities
+chunk_28_table_1.csv,12,Date of Initial Transmission,Date data was transmitted to National Health Data Center,1. DOH Hospital Health Information Management Manual 2. DOH AO 2015-0024: Implementing Guidelines on Integrated Tuberculosis Information System (ITIS) 3. DOH AO No. 2011-0010: Implementing Procedures and Guidelines in Reporting
+chunk_28_table_1.csv,13,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_28_table_1.csv,14,Date of Last Update,Date data was last updated,
+chunk_28_table_1.csv,15,Time of Last Update,Time data was last updated,
+chunk_29_table_1.csv,10,Date Signed,Date the healthcare professional signed the Claim Form2,
+chunk_29_table_1.csv,11,Co-pay on top of PhilHealth benefits,Yes/No,
+chunk_29_table_1.csv,12,Co-pay Amount,"Amount, if with co-pay on top of PhilHealth benefits",
+chunk_29_table_1.csv,13,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_29_table_1.csv,14,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_29_table_1.csv,15,Date of Last Update,Date data was last updated,
+chunk_29_table_1.csv,16,Time of Last Update,Time data was last updated,
+chunk_2_table_1.csv,16,Last Name,Legal last name of patient,1. DOH Hospital Health Information Management Manual 2. Captured in PhilHealth Member Registration Form and Claim Form 4.
+chunk_2_table_1.csv,17,First Name,Legal first name of patient,
+chunk_2_table_1.csv,18,Middle Name,Legal middle name of patient,
+chunk_2_table_1.csv,19,Suffix/Extension Name,"Additional term following the patient's full name. Examples are Jr., Sr., III, and others",
+chunk_2_table_1.csv,20,No Middle Name,Yes/No,
+chunk_2_table_1.csv,MEMBERSHIP GENERAL CATEGORY,,,
+chunk_2_table_1.csv,21,Dependent Member's PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_2_table_1.csv,22,Relationship to Member,"If PhilHealth Status is Dependent: Relationship Code For PhilHealth: Child, Parent, Spouse",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_2_table_1.csv,Member's Maiden Name,,If Married,
+chunk_2_table_1.csv,23,Last Name,Legal last maiden name of patient,DOH Hospital Health Information Management Manual
+chunk_2_table_1.csv,24,First Name,Legal first maiden name of patient,
+chunk_2_table_1.csv,25,Middle Name,Legal middle maiden name of patient,
+chunk_2_table_1.csv,26,Suffix/Extension Name,"Additional term following the patient's full name. Examples are Jr., Sr., III, and others",
+chunk_2_table_1.csv,27,No Middle Name,Yes/No,
+chunk_2_table_1.csv,Spouse Name,,If Married,
+chunk_2_table_1.csv,28,Last Name,Spouse's legal last name,DOH Hospital Health Information Management Manual
+chunk_2_table_1.csv,29,First Name,Spouse's legal first name,
+chunk_2_table_1.csv,30,"Middle Name
+:unselected:",Spouse's legal middle name,
+chunk_2_table_1.csv,31,Suffix/Extension Name,"Additional term following the patient's full name. Examples are Jr., Sr .. III, and others",
+chunk_2_table_1.csv,32,No Middle Name,Yes/No,
+chunk_30_table_1.csv,,within/outside the HCI during confinement,,
+chunk_30_table_1.csv,20,Total cost of diagnostic/laboratory examinations paid by the patient/member done within/outside the HCI during confinement,If with amount,
+chunk_30_table_1.csv,21,Total Health Care Institution Fees Paid By,"Paid By Code: Member, Patient, HMO, PCSO, Promissory Note, Others",
+chunk_30_table_1.csv,22,Total Health Care Institution Fees Paid By - Others specify,Total Health Care Institution Fees Paid By - Others specify,
+chunk_30_table_1.csv,23,Total Professional Fees Paid By,"Paid By Code: Member, Patient, HMO, PCSO, Promissory Note, Others",
+chunk_30_table_1.csv,24,Total Professional Fees Paid By Others specify,Total Professional Fees Paid By - Others entitiies,
+chunk_30_table_1.csv,25,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_30_table_1.csv,26,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_30_table_1.csv,27,Date of Last Update,Date data was last updated,
+chunk_30_table_1.csv,28,Time of Last Update,Time data was last updated,
+chunk_30_table_1.csv,PAST MEDICAL HISTORY,,,
+chunk_30_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_30_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_30_table_1.csv,3,PhilHealth Identification Number,A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of,1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001).
+chunk_31_table_1.csv,5,Description,Significant health conditions for a person related to the patient relevant in the context of care for the patient.,Management Manual
+chunk_31_table_1.csv,6,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_31_table_1.csv,7,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_31_table_1.csv,8,Date of Last Update,Date data was last updated,
+chunk_31_table_1.csv,9,Time of Last Update,Time data was last updated,
+chunk_31_table_1.csv,SOCIAL/PERSONAL HISTORY,,,
+chunk_31_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_31_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_31_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_31_table_1.csv,4,Patient is a smoker,Yes/No,1. RA 9211: Tobacco Regulation Act of 2003
+chunk_31_table_1.csv,5,Number of Cigarette Pack Consumed per Year,Number of Cigarette Pack Consumed per Year,2. DOH Administrative Order No. 122 s. 2003: A Smoking Cessation Program to support the National Tobacco Control & Healthy Lifestyle Program 3. DOH AO 2013-0005: National Policy on the Unified Registry Systems of the Department of Health (Chronic Non-
+chunk_32_table_1.csv,,,"registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_32_table_1.csv,4,Date of Adverse Event,Date when the event occurred or detected,DOH Hospital Health Information Management Manual
+chunk_32_table_1.csv,5,Time of Adverse Event,Time when the event occurred or detected,
+chunk_32_table_1.csv,6,Actuality,"Code for Actual, Potential",
+chunk_32_table_1.csv,7,Description,"Actual or potential/avoided event causing unintended physical injury resulting from or contributed to by medical care, a research study or other healthcare setting factors that requires additional monitoring, treatment, or hospitalization, or that results in death.",
+chunk_32_table_1.csv,8,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_32_table_1.csv,9,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_32_table_1.csv,10,Date of Last Update,Date data was last updated,
+chunk_32_table_1.csv,11,Time of Last Update,Time data was last updated,
+chunk_32_table_1.csv,PERTINENT SIGNS & SYMPTOMS ON ENCOUNTER,,,
+chunk_32_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_32_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_32_table_1.csv,3,PhilHealth Identification Number,A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of,1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001).
+chunk_33_table_1.csv,,,"Digital Rectal, Genitourinary, Others",
+chunk_33_table_1.csv,7,System Type for others,Others specify,
+chunk_33_table_1.csv,8,Pertinent Findings per System,"Key findings for Chest/Lungs: Essentially Normal, Lump/s over Breast/s, Asymmetrical chest expansion, Decreased breath sounds, Wheezes, Rales/crackles/rhonchi, Intercostal rib/clavicular retraction, Others",
+chunk_33_table_1.csv,9,,"Key findlings for CVS: Essentially normal, Irregular rhythm, Displaced apex beat, Muffled heart sounds, Heaves and/or thrills, Murmur, Pericardial bulge, Others",
+chunk_33_table_1.csv,10,,"Key findings for Abdomen: Essentially normal, Palpable mass(es), Abdominal rigidity, Tympanitic/dull abdomen, Abdomen tenderness, Uterine contraction, Hyperactive bowel sounds, Others",
+chunk_33_table_1.csv,11,,"Key findings for GU (IE): Essentially normal, Blood stained in exam finger, Cervical dilatation, Presence of abnormal discharge, Others",
+chunk_33_table_1.csv,12,,"Key findings for Skin Extremities: Essentially normal, Edema/swelling, Rashes/petechiae, Clubbing, Decreased mobility, Weak pulses, Cold clammy skin, Pale nailbeds, Cyanosis/mottled skin, Poor skin turgor, Others",
+chunk_33_table_1.csv,13,,"Key findings for Neuro Exam: Essentially normal, Abnormal reflex(es), Abnormal gait, Poor/altered memory, Abnormal position sense, Poor muscle tone/strength, Abnormal/decreased sensation, Poor",
+chunk_34_table_1.csv,8,Action Taken,Action Taken,
+chunk_34_table_1.csv,9,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_34_table_1.csv,10,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_34_table_1.csv,11,Date of Last Update,Date data was last updated,
+chunk_34_table_1.csv,12,Time of Last Update,Time data was last updated,
+chunk_34_table_1.csv,MEDICATIONS,,,
+chunk_34_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",
+chunk_34_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,
+chunk_34_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",
+chunk_34_table_1.csv,4,Drug/Medicine - PNDF,Drug/Medicine Code - PNDF,
+chunk_34_table_1.csv,5,Drug/Medicine - Non-PDF,Drug/Medicine - Non-PDF,
+chunk_34_table_1.csv,6,Name of Drug,Drug Name,
+chunk_34_table_1.csv,7,Salt Code of Medicine,Salt Code of Medicine,
+chunk_34_table_1.csv,8,Dose - Quantity,Quantity of the prescribed medicine,
+chunk_34_table_1.csv,9,Dose - Unit of Measure,The unit of measure of the dosage,
+chunk_34_table_1.csv,10,Dosage Regimen,Dosage regimen of the prescribed medicine,
+chunk_34_table_1.csv,11,"Dosage Regimen, others specify","Dosage regimen, others specify",
+chunk_34_table_1.csv,12,Duration of Intake,Duration of intake of the medicine,
+chunk_35_table_1.csv,,,"Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_35_table_1.csv,4,Vital Sign,"Vital Sign Code: Blood Pressure, Heart Rate, Respiratory Rate, Temperature, Height, Weight",DOH Hospital Health Inform Information Management Manual
+chunk_35_table_1.csv,5,Measure - Numerator,"Depending on Vital Sign, Example if Blood Pressure, Diastolic; standard unit of measure has to be set",
+chunk_35_table_1.csv,6,Measure - Denominator,"Depending on Vital Sign, Example if Blood Pressure, Systolic; standard unit of measure has to be set",
+chunk_35_table_1.csv,7,Body Mass Index,The patient's Body Mass Index Computation: weight (kg) / height(m)*height(m),
+chunk_35_table_1.csv,8,"Z score based on age, gender, height and weight",Standard Library,PhilHealth eClaims Forms
+chunk_35_table_1.csv,9,Left Eye Visual Acuity (Vision) of the patient,Visual acuity of the patient's left eye,DOH Hospital Health Information Management Manual
+chunk_35_table_1.csv,10,Right Eye Visual Acuity (Vision) of Patient,Visual acuity of the patient's right eye,
+chunk_35_table_1.csv,11,Length or Height of Patient in cm -For Pediatric Patient only 0-24,Length or height measurement of patient in centimeters for pediatric patient only (0- 24 months),
+chunk_35_table_1.csv,12,Head Circumference of Patient in cm For Pediatric Patient only 0-24,The measurement of the patient's head circumference in cm for Pediatric Patient only (0-24 months),
+chunk_35_table_1.csv,13,Skinfold Thickness of Patient in cm For Pediatric Patient only 0-24,The measurement of the patient's skinfold thickness in cm for pediatric patient only (0-24 months),
+chunk_35_table_1.csv,14,Waist of Patient in cm -For Pediatric Patient only 0-24 Months,The measurement of the patient's waist in cm -For pediatric patient only (0-24 months),
+chunk_36_table_1.csv,12,Time of Last Update,Time data was last updated,
+chunk_36_table_1.csv,HEENT DATA,,,
+chunk_36_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_36_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_36_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (cHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_36_table_1.csv,4,HEENT,"HEENT Code: Essentially Normal, Icteric Schlerac, Abnormal Pupillary Reaction,
+ale Conjunctivae, Cervical
+Pale
+lymphadenopathy, Sunken Eyeballs, Dry Mucuos Membrane, Sunken",DOH Hospital Health Information Management Manual
+chunk_36_table_1.csv,5,"HEENT, Others specify",Specify other observations,
+chunk_36_table_1.csv,6,HEENT - Remarks,Input remarks,
+chunk_36_table_1.csv,7,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_36_table_1.csv,8,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_36_table_1.csv,9,Date of Last Update,Date data was last updated,
+chunk_36_table_1.csv,10,Time of Last Update,Time data was last updated,
+chunk_37_table_1.csv,,,"Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_37_table_1.csv,4,Type of Stroke,Type of Stroke Code,"1. DOH Hospital Health Information Management Manual 2. DOH AO 2013-0005: National Policy on the Unified Registry Systems of the Department of Health (Chronic Non- Communicable Diseases, Injury Related Cases, Persons with Disabilities. and Violence Against Women and Children Registry System)"
+chunk_37_table_1.csv,5,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_37_table_1.csv,6,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_37_table_1.csv,7,Date of Last Update,Date data was last updated,
+chunk_37_table_1.csv,8,Time of Last Update,Time data was last updated,
+chunk_37_table_1.csv,DISEASE REGISTRY - DIABETES MELLITUS,,,
+chunk_37_table_1.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_37_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_37_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_37_table_1.csv,4,Newly or Previously Diagnosed Diabetes,Indicator if patient is newly diagnosed or not,1. DOH Hospital Health Information Management Manual 2. DOH AO 2013-0005: National Policy on the Unified Registry Systems of the Department of Health (Chronic Non-
+chunk_37_table_1.csv,5,Type of Diabetes,Type of Diabetes as represented by a code.,
+chunk_37_table_1.csv,6,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_38_table_1.csv,,,represented by a code.,
+chunk_38_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_38_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_38_table_1.csv,4,Date of Result,Date the result was released,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_38_table_1.csv,5,Time of Result,Time the result was released,
+chunk_38_table_1.csv,6,Result Reference #,Test result reference #,
+chunk_38_table_1.csv,7,Findings/ Result in HbAlc,Result of HbAlc laboratory test,
+chunk_38_table_1.csv,8,Date the Record was Added,Date the record was added,
+chunk_38_table_1.csv,9,Status of Laboratory/Imaging Results,Status of laboratory/imaging results,
+chunk_38_table_1.csv,10,Diagnostic Lab Fec,Diagnostic Laboratory fee,DOH AO 2008-0002 Posting of Schedule of Fees for Laboratory and Other Health Facilities
+chunk_38_table_1.csv,11,Date of Initial Transmission,Date data was transmitted to National Health Data Center,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_38_table_1.csv,12,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_38_table_1.csv,13,Date of Last Update,Date data was last updated,
+chunk_38_table_1.csv,14,Time of Last Update,Time data was last updated,
+chunk_39_table_1.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_39_table_1.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_39_table_1.csv,4,Date of Result,Date the result was released,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_39_table_1.csv,5,Time of Result,Time the result was released,
+chunk_39_table_1.csv,6,Result Reference #,Test result reference #,
+chunk_39_table_1.csv,7,Description of Other Diagnostic Exam not included in Essential Services,Description of Other Diagnostic Exam not included in Essential Services,
+chunk_39_table_1.csv,8,Findings/ Result in Other Diagnostic Exam,Result in other diagnostic examinations,
+chunk_39_table_1.csv,9,Date the Record was Added,Date the record was added,
+chunk_39_table_1.csv,10,Status of Laboratory/ Imaging Results,Status of Laboratory/Imaging Results,
+chunk_39_table_1.csv,11,Diagnostic Lab Fee,Diagnostic Lab Fee,
+chunk_39_table_1.csv,12,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_39_table_1.csv,13,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_39_table_1.csv,14,Date of Last Update,Date data was last updated,
+chunk_39_table_1.csv,15,Time of Last Update,Time data was last updated,
+chunk_39_table_1.csv,HOSPITAL STATISTICS,,,
+chunk_39_table_1.csv,1,Name of Hospital,Identification of the hospital,"1. DOH Hospital Health Information Management Manual 2. DOH A.O. No. 2012-0012, Annex E: Annual Hospital Statistical Report"
+chunk_39_table_1.csv,2,Address: Street Address,Actual street/subdivision name and number in the barangay where the health facility is situated.,
+chunk_3_table_1.csv,51,Unit/Room #/Floor,Unit/Room #/Floor indicated in the permanent address.,1. DOH Hospital Health Information Management Manual 2. PSGC- PSA
+chunk_3_table_1.csv,52,Building Name,Building Name indicated in the permanent address.,
+chunk_3_table_1.csv,53,Lot/Block/Phase/House #,Lot/Block/Phase/House # indicated in the permanent address.,
+chunk_3_table_1.csv,54,Street Name 1,Street name indicated in the permanent address.,
+chunk_3_table_1.csv,55,Subdivision,Subdivision indicated in the permanent address.,
+chunk_3_table_1.csv,56,Barangay,"Barangay indicated in the permanent address, as represented by a code.",
+chunk_3_table_1.csv,57,Municipality/City,"Municipality/city indicated in the permanent address, as represented by a code.",
+chunk_3_table_1.csv,58,Province,"Province indicated in the permanent address, as represented by a code.",
+chunk_3_table_1.csv,59,Region,"Region indicated in the permanent address, as represented by a code.",
+chunk_3_table_1.csv,60,State,"State indicated in the permanent address, as represented by a code.",
+chunk_3_table_1.csv,61,Country,"Country indicated in the permanent address, as represented by a code.",
+chunk_3_table_1.csv,62,Zip Code,Zip Code indicated in the permanent address.,
+chunk_3_table_1.csv,Mailing Address / Current Address,,,
+chunk_3_table_1.csv,63,Unit/Room #/Floor,"Unit/Room #/Floor indicated in
+the
+mailing/current address.","1. DOH Hospital Health Information Management Manual
+2. PSGC- PSA"
+chunk_3_table_1.csv,64,Building Name,"Building Name indicated in the
+mailing/current address.",
+chunk_40_table_1.csv,,,Multiply quotient to 100%,
+chunk_40_table_1.csv,14,Total number of inpatients,"Total number of patients who stays in a health facility licensed to admit patients, while under treatment",
+chunk_40_table_1.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_40_table_1.csv,15,Total Newborn (In facility deliveries),Total newborns that was delivered in the hospital (given period of time is January 1 to December 31st of the reporting year),
+chunk_40_table_1.csv,16,Total Discharges (Alive),Total number of in-patients that was admitted to the hospital and was alive when discharged,
+chunk_40_table_1.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_40_table_1.csv,17,Total patients admitted and discharged on the same day,Total patients admitted and discharged on the same day,
+chunk_40_table_1.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_40_table_1.csv,18,Total number of inpatient bed days (service days),Unit of measure denoting the services received by one in-patient in one 24-hour period,
+chunk_40_table_1.csv,,,"(given period of time is January 1 to December 31"" of the reporting year)",
+chunk_40_table_1.csv,19,Total number of inpatients transferred to this facility from another facility for inpatient care,Total number of inpatients transferred to the health facility from another facility for inpatient care,
+chunk_40_table_1.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_1.csv,,,Total discharges and deaths for the same period,
+chunk_41_table_1.csv,29,Ten Leading Causes of Morbidity,The Top Ten Leading Causes of Morbidity as of midnight last day (December 31st) of previous year to the following year (January 1),
+chunk_41_table_1.csv,30,Ten Leading Causes of Morbidity/Diseases Disaggregated as to Age and Sex,Top 10 leading causes of Morbidity/ Diseases with detailed sub-categories for Age and Sex.,
+chunk_41_table_1.csv,31,Total Number of Deliveries,Total number of all types of deliveries. Total number of live-birth vaginal deliveries (normal) + Total number of live-birth cesarean section deliveries + Total number of other deliveries (given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_1.csv,32,"Number of Outpatient Visits, new patient",Refers to the total number of outpatient first visits that was attended and who received health care services in the health care facility for a period of time.,
+chunk_41_table_1.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_1.csv,33,"Number of outpatient visits, re-visit",Refers to the total number of outpatient second and subsequent visits that was attended and who received health care services in the health care facility for a period of time. (given period of time is January 1 to December 31ST of the reporting year),
+chunk_41_table_1.csv,34,"Number of outpatient visits, adult",Total number of adult outpatient visits (Age 19 years old and above),
+chunk_42_table_1.csv,43,Total number of medical imaging tests,"The total number of available medical imaging tests done in the hospital (all types including x-rays, ultrasound, CT scan) (given period of time is January 1 to December 31st of the reporting year)",
+chunk_42_table_1.csv,44,"Total number of laboratory and diagnostic tests (all types, excluding medical imaging)",The total number of available laboratory tests done in the hospital,
+chunk_42_table_1.csv,,,(given period of time is January I to December 31st of the reporting year),
+chunk_42_table_1.csv,45,Number of blood units transfused,Total number of blood units transfused to patients in the hospital,
+chunk_42_table_1.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_1.csv,46,Total number of emergency department visits,Refers to the total number of emergency patients attended and who received health care services in the health care facility for a given period.,
+chunk_42_table_1.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_1.csv,47,"Total number of emergency department visits, adult",Total number of adult emergency department visits,
+chunk_42_table_1.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_1.csv,48,Total Deaths,Total number of deaths in the hospital (given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_1.csv,49,Total number of inpatient deaths,Total number of deaths of patients who were admitted for an overnight stay to the hospital or other healthcare facility.,
+chunk_43_table_1.csv,56,Total number of maternal deaths,"Total number of deaths resulting from obstetric complications of the pregnancy state (pregnancy, labor, and puerperium) from interventions, omissions, incorrect treatment, or from chain of events mentioned.",
+chunk_43_table_1.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_43_table_1.csv,57,Gross death rate,The ratio of all inpatient deaths including newborns for a given period to the total number of discharges including deaths for a given period.,
+chunk_43_table_1.csv,,,Total Deaths (including newborn for a given period) over Total Discharges and Deaths for the same period. Multiply quotient to 100%,
+chunk_43_table_1.csv,58,Net death rate,The ratio of deaths excluding deaths under 48 hours of admission. It produces a lower figure than the gross death rate. It is also known as Institutional Death Rate Total Deaths (including newborn for a given period) - death < 48 hours for the period over Total Discharges (including deaths and newborn) - death < 48 hours for the period. Multiply quotient to 100%,
+chunk_43_table_1.csv,59,Ten Leading Causes of Mortality,Ten leading causes of death encountered in the hospital. It is recorded in ICD10 code,
+chunk_43_table_1.csv,60,Ten Leading Causes of Mortality/Deaths Disaggregated as to Age and Sex,Top 10 leading causes of mortality/deaths with detailed sub-categories for Age and Sex.,
+chunk_44_table_1.csv,,,Number of Surgical Site Infections (Clean Cases) over Total number of Clean Procedures done. Multiply quotient to 100%,
+chunk_44_table_1.csv,66,Ten leading Major Operation,Ten leading major operations or surgical procedures requiring anesthesia/ spinal anesthesia to be performed in an operating theatre. (The definition of a major operation shall be based on the definitions of the different cutting specialties.),
+chunk_44_table_1.csv,67,Ten leading Minor Operations,"Ten leading minor operations or surgical procedures requiring only local anesthesia/ no OR needed, example suturing.",
+chunk_44_table_1.csv,68,Staffing Pattern,Breakdown of total number of all employees in the hospital,
+chunk_44_table_1.csv,Expenses,,,
+chunk_44_table_1.csv,69,Amount spent on personnel salaries and wages,Amount spent on personnel salaries and wages for the reporting year,
+chunk_44_table_1.csv,70,Amount spent on benefits for employees,"Benefits are in addition to wages/salaries. Benefits include for example: social security contributions, health insurance for the reporting year",
+chunk_44_table_1.csv,71,Allowances provided to employees at this facility,"Allowances are in addition to wages/salaries. Allowances include for example: clothing allowance, PERA, vehicle maintenance allowance and hazard pay for the reporting year",
+chunk_44_table_1.csv,72,"Total amount spent on all personnel including wages, salaries, benefits and allowances for last year","Total amount spent on all personnel including wages, salaries, benefits and allowances for the reporting year",
+chunk_44_table_1.csv,73,Total amount spent on medicines,Total amount spent for procurement and purchase of medicines for the reporting year,
+chunk_45_table_1.csv,88,Total amount of money received from direct patient/ out-of-pocket charges/fees,Total amount of money collected from direct patient/out-of-pocket charges/fees,
+chunk_45_table_1.csv,89,Total amount of money received from reimbursement from private insurance/HMOs,Total amount of money received from reimbursement from private insurance/HMOs,
+chunk_45_table_1.csv,90,Total amount of money received from other sources,"Total amount of money received from other sources (PAGCOR, PCSO, etc.)",
+chunk_45_table_1.csv,91,Grand Total,Grand Total of Revenues for the reporting year,
+chunk_45_table_1.csv,92,Report Prepared by,Authorized personnel that prepared the hospital statistical report for the for the reporting year,
+chunk_45_table_1.csv,93,Designation/ Section/ Department,Official designation and section/department of the authorized personnel that prepared the report.,
+chunk_45_table_1.csv,94,Report Approved and Certified by,Approving entity of the report,
+chunk_4_table_1.csv,79,Occupational Category,Captured in PhilHealth Member Registration & Claim Forms.,PhilHealth Member Registration Form
+chunk_4_table_1.csv,80,Occupational Description,Occupational Description,
+chunk_4_table_1.csv,81,Health Worker,Is the patient a health worker?,
+chunk_4_table_1.csv,82,Monthly Income,Monthly Income,
+chunk_4_table_1.csv,83,Proof of Income,Client's proof of income,
+chunk_4_table_1.csv,84,Proof of Income for Others,Proof of income for others,
+chunk_4_table_1.csv,85,Highest Educational Attainment,"The highest level of education completed in terms of the highest degree of schooling completed, as represented by a code.",DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001)
+chunk_4_table_1.csv,86,Educational Description,Educational description,
+chunk_4_table_1.csv,87,Member Type,Patient's type of membership? Direct Contributor / Indirect,PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_4_table_1.csv,88,Member Type for Direct Contributor,"Employed Private, Employed Government, Professional Practitioner, Self-Earning Individual - Individual, Self- Earning Individual - Sole Proprietor, Self- Earning Individual Group Enrollment Scheme, - Kasambahay, Migrant Worker - Land- Based, Migrant Worker - Sea-Based, Lifetime Member, Filipinos with Dual Citizenship / Living Abroad, Foreign National",
+chunk_4_table_1.csv,89,Member Type for Direct Contributor - Group Enrollment Scheme,If Self-Earning Individual - Group Enrollment Scheme - Group Enrollment Scheme Code,PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_4_table_1.csv,90,Group Enrollment Scheme Description,Description if Group Enrollment Scheme was made.,
+chunk_4_table_1.csv,91,Philippine Retirement Authority - Special Resident's Retiree Visa (PRA SRRV) Number,Philippine Retirement Authority - Special Resident's Retiree Visa (PRA SRRV) Number for foreign nationals.,
+chunk_5_table_1.csv,3,PhilHealth Identification Number,"PhilHealth identification number of patient. A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",
+chunk_5_table_1.csv,4,PhilHealth Claim Series #,PhilHealth Issued Series #,
+chunk_5_table_1.csv,5,Hospital Patient ID #,Hospital Patient ID #,
+chunk_5_table_1.csv,6,Hospital Registry #,Registry number assigned by the health facility to the patient,
+chunk_5_table_1.csv,7,Hospital Case #,Primary identifier used by the health facility to identify a patient for each case or incidence,
+chunk_5_table_1.csv,8,Type of Encounter,Outpatient / Emergency Room / Inpatient,
+chunk_5_table_1.csv,9,Clinical Status At Time of Report,"Clinical status of the patient in terms of inpatient, outpatient, died, discharged, or unknown as represented by a code.",
+chunk_5_table_1.csv,10,Type of Patient,Type of patient as represented by a code.,
+chunk_5_table_1.csv,11,Date of Encounter,Date patient was seen at the health facility.,
+chunk_5_table_1.csv,12,Time of Encounter,Time patient was seen at the health facility.,
+chunk_5_table_1.csv,13,Sex,Property or quality in which a patient is classified as female or male on the basis of their reproductive organs and functions,
+chunk_5_table_1.csv,14,Age in Years at Time of Encounter,Computed age in years based on date of birth.,
+chunk_5_table_1.csv,15,Age in Months at Time of Encounter,Computed age in months based on date of birth,
+chunk_5_table_1.csv,16,Age in Days at Time of Encounter,Computed age in days based on date of birth,
+chunk_6_table_1.csv,,,,3. RA 3753: Registry of Civil Status Act
+chunk_6_table_1.csv,32,Time of Death,"If Expired, Time of Death",
+chunk_6_table_1.csv,33,Cause of Death,Cause of Death.,
+chunk_6_table_1.csv,34,Place of Death,Place of Death.,
+chunk_6_table_1.csv,35,Underlying Cause of Death (ICD-10),Disease or injury that initiated the train of events leading directly to death,
+chunk_6_table_1.csv,36,Underlying Cause of Death Description,Underlying Cause of Death Description,
+chunk_6_table_1.csv,37,Accommodation Type,Private / Non-Private (Charity / Service),DOH Hospital Health Information Management Manual
+chunk_6_table_1.csv,38,Chief Complaint,Chief Complaint as represented by a code.,
+chunk_6_table_1.csv,39,Chief Complaint - Remarks,Chief Complaint - Remarks,
+chunk_6_table_1.csv,40,Other Complaints,Other Complaints,
+chunk_6_table_1.csv,41,Consent to Access Patient Records,"Consent to access patient records was provides, yes/no",
+chunk_6_table_1.csv,Attending Health Care Professional,,,
+chunk_6_table_1.csv,42,PhilHealth Accreditation Number,PhilHealth-issued accreditation number to the healthcare professional.,1. DOH Hospital Health Information Management Manual 2. PhilHealth eClaims Forms
+chunk_6_table_1.csv,43,Last Name,Legal last name of the healthcare professional.,
+chunk_6_table_1.csv,44,First Name,Legal first name of the healthcare professional.,
+chunk_6_table_1.csv,45,Middle Name,Legal middle name of the healthcare professional.,
+chunk_6_table_1.csv,46,Suffix/Extension Name,"Additional term following the Health Care Professional's name. Examples are Jr., Sr., III, and others",
+chunk_6_table_1.csv,Person Granting Consent to Access,,,
+chunk_6_table_1.csv,47,Last Name,Legal last name of the personal granting consent to access.,DOH Hospital Health Information Management Manual
+chunk_7_table_1.csv,,,"name. Examples are Jr., Sr., III, and others",
+chunk_7_table_1.csv,67,Date Signed,Date certification was signed,
+chunk_7_table_1.csv,Case Investigator,,,
+chunk_7_table_1.csv,68,Last Name,Legal last name of the case investigator.,1. DOH AO 2020-0013: Inclusion of COVID- 19 in the List of Notifiable Diseases 2. Included in the COVID-19 Case Investigation Form
+chunk_7_table_1.csv,69,First Name,Legal first name of the case investigator.,
+chunk_7_table_1.csv,70,Middle Name,Legal middle name of the case investigator.,
+chunk_7_table_1.csv,71,Suffix/Extension Name,"Additional term following the Case investigator's name. Examples are Jr., Sr., III, and others",
+chunk_7_table_1.csv,72,Date of Interview,Date of interview,
+chunk_7_table_1.csv,Informant If Patient Not Available,,,
+chunk_7_table_1.csv,73,Last Name,Last Name,1. DOH AO 2020-0013: Inclusion of COVID- 19 in the List of Notifiable Diseases 2. Included in the COVID-19 Case Investigation Form
+chunk_7_table_1.csv,74,First Name,First Name,
+chunk_7_table_1.csv,75,Middle Name,Middle Name,
+chunk_7_table_1.csv,76,Suffix/Extension Name,"Additional term following the informant's name. Examples are Jr., Sr .. III, and others",
+chunk_7_table_1.csv,77,Relationship of Informant to the Patient,"Relationship Code: Spouse, Sibling, Child, Parent, Others",
+chunk_7_table_1.csv,78,Home Phone Number,Home Phone Number,
+chunk_7_table_1.csv,COVID-19,,,
+chunk_7_table_1.csv,1,Disease Reporting Unit,"Reporting Health Facility - The name of the facility (i.e. hospital, laboratory, health center, etc.) that is reporting the case as represented by the NHFR-code.",1. DOH AO 2020-0013: Inclusion of COVID- 19 in the List of Notifiable Diseases 2. DOH DM 2020-0436: Minimum Data Requirements of COVID-19-Related Information Systems 3. Included in the COVID-19 Case Investigation Form
+chunk_7_table_1.csv,2,Date of Interview,Date when the interview with the case was conducted.,
+chunk_7_table_1.csv,3,Date of First Consult,Date of first consult. When the case first consulted a health professional.,
+chunk_7_table_1.csv,4,Date of Admission,Date of admission.,
+chunk_7_table_1.csv,,,When the case was admitted in a hospital or,
+chunk_9_table_1.csv,,,illness of the confirmed COVID-19 case (use date of sample collection for asymptomatic cases as basis) until the time that said cases test negative on laboratory confirmation or other approved laboratory test through: (1) face to face contact with a probable or confirmed case within 1 meter and for more than 15 minutes; (2) direct physical contact with a probable or confirmed case; (3) direct care for a patient with probable or confirmed COVID-19 case without using PPE; or (4) other situations as indicated by local risk assessments. The classification of the patient at the time of interview.,
+chunk_9_table_1.csv,Case Investigation Details,,,
+chunk_9_table_1.csv,23,HealthCare Worker,"If health care worker, yes or no Health care worker refers to medical, allied medical, and other necessary personnel regardless of the nature of employment assigned in hospitals, and health facilities who are directly catering to or exposed to persons who are classified as either suspect, probable or confirmed COVID-19 cases.",
+chunk_9_table_1.csv,24,"If yes, name and location of health facility","Name and location of health facility, if yes",
+chunk_9_table_1.csv,25,Returning Overseas Filipino Worker/ Foreign National Traveler,"If Returning Overseas Filipino Worker/ Foreign National Traveler, yes or no. A Returning Overseas Filipino Worker is a Filipino citizen who is returning to the Philippines from abroad. There are two (2)",
+chunk_10_table_2.csv,,,"(an MD or an Allied Health Professional trained on Epidemiology), a Disease Surveillance Officer (a Public Health Nurse or an Allied Health Professional), a Registered Medical Technologist, and an Encoder",
+chunk_10_table_2.csv,,,"3. All ESU staff are trained on Basic Epidemiology, Disease Surveillance. and Event-based Surveillance",
+chunk_10_table_2.csv,,,4. Plan and Budget: with budgetary allotment from the local budget,
+chunk_10_table_2.csv,,,5. Coordination: Link with | Provincial Hospital and other Health Facilities within the locality,
+chunk_10_table_2.csv,,,6. Report: submission of Disease and Event Surveillance report,
+chunk_10_table_2.csv,37,Percentage of close contacts of new positive cases traced within 24 hours,"Percentage of close contacts of new positive cases traced within 24 hours out of target 37 close contacts for every I confirmed, positive case.",1. DOH DM 2020-0189: Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID- 19) Cases
+chunk_10_table_2.csv,,,"· Numerator: Number of close contacts of new positive cases interviewed either via phone or through other messaging applications, or by face-to-face interview, and the health status and disposition were determined within 24 hours · Denominator: Number of new positive cases x 37 close contacts · Multiplier: 100",2. DILG MC 2020-073: Guidelines for the Conduct of the Expanded Testing Procedures for COVID-19
+chunk_10_table_2.csv,38,Adequate Case: Close Contact Ratio,Ratio of individuals who tested positive for COVID-19 to the number of close contacts identified.,"DOH DM 2020-0245: Advisory: Endorsement of the DILG Memorandum ""Updated Contact Tracing Report Template for the Coronavirus"
+chunk_11_table_2.csv,,1,or TTMF. b. Close Contacts · Numerator: Number of close contacts under Home Quarantine · Denominator: Total number of close contacts c. Probable Cases,2. DILG MC 2020-073: Guidelines for the Conduct of the Expanded Testing
+chunk_11_table_2.csv,,,,Procedures for COVID-19 3. DOH DM 2020-0090: Interim Guidelines on the Management of Persons Under Monitoring (PUMs) suspected with Coronavirus Disease-2019 (COVID-19) for Home Quarantine 4. DOH & DILG JAO 2020-0001: Guidelines on Local Isolation and General Treatment Areas for COVID-19 cases (LIGTAS COVID) and the Community-based Management of Mild COVID-19 Cases
+chunk_11_table_2.csv,,,"· Numerator: Number of probable cases under Home Quarantine · Denominator: Total number of probable cases d. Suspect Cases · Numerator: Number of suspect cases under Home Quarantine · Denominator: Total number of suspect cases
+:unselected:",
+chunk_11_table_2.csv,,,"e. Asymptomatic and Mild, Confirmed Cases · Numerator: Number of asymptomatic and mild confirmed cases under Home Quarantine · Denominator: Total number of asymptomatic and mild confirmed cases Multiplier: 100
+:unselected:",
+chunk_11_table_2.csv,43,"Percentage of close contacts, probable cases, suspect cases, and asymptomatic or mild confirmed cases in TTMFs","Percentage of close contacts, asymptomatic and mild confirmed cases quarantined in TTMFs",1. DOH DM 2020-0189: Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID- 19) Cases
+chunk_11_table_2.csv,,,a. Close Contacts · Numerator: Number of close contacts in TTMFs,2. DILG MC 2020-073: Guidelines for the Conduct of the Expanded Testing Procedures for COVID-19 3. DOH DM 2020-0090: Interim Guidelines
+chunk_11_table_2.csv,,,· Denominator: Total number of close,
+chunk_13_table_2.csv,5,Occupation,Patient's occupation,
+chunk_13_table_2.csv,6,Place of Work,Address of the patient's occupation,
+chunk_13_table_2.csv,Address,,,
+chunk_13_table_2.csv,7,Unit/Room #/Floor,Unit/Room #/Floor indicated in the mailing/current address.,1. DOH Hospital Health Information Management Manual 2. PSGC- PSA
+chunk_13_table_2.csv,8,Building Name,Building Name indicated in the mailing/current address.,
+chunk_13_table_2.csv,9,Lot/Block/Phase/House #,Lot/Block/Phase/House # indicated in the mailing/current address.,
+chunk_13_table_2.csv,10,Street Name,Street name indicated in the mailing/current address.,
+chunk_13_table_2.csv,11,Subdivision,Subdivision indicated in the mailing/current address.,
+chunk_13_table_2.csv,12,Barangay,"Barangay indicated in the mailing/current address, as represented by a code.",
+chunk_13_table_2.csv,13,Municipality/City,"Municipality/city indicated in the mailing/current address, as represented by a code.",
+chunk_13_table_2.csv,14,Province,"Province indicated in the mailing/current address, as represented by a code.",
+chunk_13_table_2.csv,15,Region,"Region indicated in the mailing/current address, as represented by a code.",
+chunk_13_table_2.csv,16,State,"State indicated in the mailing/current address, as represented by a code.",
+chunk_13_table_2.csv,17,Country,"Country indicated in the mailing/current address, as represented by a code.",
+chunk_13_table_2.csv,18,Zip Code,"Zip Code indicated in the mailing/current address, as represented by a code.",
+chunk_13_table_2.csv,Contact Numbers,,,
+chunk_13_table_2.csv,19,Home Phone Number,Landline telephone number at which the employer can be contacted,PhilHealth eClaims Forms.
+chunk_13_table_2.csv,20,Mobile Phone Number,Mobile number at which the patient can be contacted,
+chunk_14_table_2.csv,8,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_14_table_2.csv,9,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_14_table_2.csv,10,Date of Last Update,Date data was last updated,
+chunk_14_table_2.csv,11,Time of Last Update,Time data was last updated,
+chunk_16_table_2.csv,7,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_16_table_2.csv,8,Date of Last Update,Date data was last updated,
+chunk_16_table_2.csv,9,Time of Last Update,Time data was last updated,
+chunk_17_table_2.csv,,,"Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_17_table_2.csv,4,Essential Newborn Care,"Essential Newborn Care Code: Immediate Drying of Newborn, Early Skin-to-Skin Contact, Timely Chord Clamping, Eye Prophylaxis, Weighing of the Newborn, Vitamin K Administration. Non Separation of Mother/Baby for Early Breastfeeding Initiation",DOH AO 2009-0025: Adopting New Policies and Protocol on Essential Newborn
+chunk_17_table_2.csv,5,Date of Initial Transmission,Date data was transmitted to National Health Data Center.,
+chunk_17_table_2.csv,6,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_17_table_2.csv,7,Date of Last Update,Date data was last updated,
+chunk_17_table_2.csv,8,Time of Last Update,Time data was last updated,
+chunk_17_table_2.csv,IMMUNIZATION,,,
+chunk_17_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_17_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_17_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_17_table_2.csv,4,Date Given,Date administered the immunization,
+chunk_18_table_2.csv,6,Duration of Menstrual Period in Number of Days,Duration of menstrual period in number of days,and Reproductive Health Act of 2012
+chunk_18_table_2.csv,7,Interval/Cycle of Menstruation in Number of Days,Interval/Cycle of menstruation in number of days,
+chunk_18_table_2.csv,8,Number of Pads/Napkins Used per Day during Menstruation,Number of pads/napkins used per day during menstruation,
+chunk_18_table_2.csv,9,Onset of Sexual Intercourse (Age of First Sexual Intercourse),Onset of sexual intercourse (Age of first sexual intercourse),
+chunk_18_table_2.csv,10,Birth Control Method Used,Birth control method used,
+chunk_18_table_2.csv,11,Is Menopause?,Yes/No,
+chunk_18_table_2.csv,12,"If Menopause, Age of Menopause","If Menopause, Age of Menopause",
+chunk_18_table_2.csv,13,If Patient Menstrual History Applicable,Yes/No,
+chunk_18_table_2.csv,14,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_18_table_2.csv,15,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_18_table_2.csv,16,Date of Last Update,Date data was last updated,
+chunk_18_table_2.csv,17,Time of Last Update,Time data was last updated,
+chunk_18_table_2.csv,PREGNANCY,,,
+chunk_18_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_18_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_18_table_2.csv,3,PhilHealth Identification Number,A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of,1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership
+chunk_19_table_2.csv,,,represented by a code.,
+chunk_19_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_19_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_19_table_2.csv,4,Specimen Reference #,Laboratory Reference #,1. DOH HFDB Manual on Packaging and Transport of Laboratory Specimens for referral 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory 3. DOH HFDB Manual of Standards on Laboratory Biosafety and Biosecurity
+chunk_19_table_2.csv,5,Specimen Collected,Specimen Collected: Serum/Oropharyngeal/Nasopharynge al Swab/Others,
+chunk_19_table_2.csv,6,"Specimen Collected, others specify","Speciment Collected, others specify",
+chunk_19_table_2.csv,7,Date of Specimen Collection,Date when the specimen was collected,
+chunk_19_table_2.csv,8,Time of Specimen Collection,Time of when the specimen was collected,
+chunk_19_table_2.csv,9,Laboratory Facility Where Specimen is Sent,Code of laboratory facility,
+chunk_19_table_2.csv,10,Date Sent to Laboratory Facility,Date when the specimen was sent to the testing facility,
+chunk_19_table_2.csv,11,Date Received by the Laboratory,Date the testing facility received the specimen,
+chunk_19_table_2.csv,12,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_19_table_2.csv,13,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_19_table_2.csv,14,Date of Last Update,Date data was last updated,
+chunk_19_table_2.csv,15,Time of Last Update,Time data was last updated,
+chunk_1_table_2.csv,6,Type of Disability,Type of disability as represented by a code.,Identification Card Relative to Republic Act 9442
+chunk_1_table_2.csv,7,With Permanent Disability,Yes/No,
+chunk_1_table_2.csv,8,Pantawid Pamilya Identification Number,Unique and permanent number issued by the Department of Social Welfare and Development (DSWD) to a client if member of the Pantawid Pamilya Pilipino Program (PPPP).,RA No. 11310: Institutionalizing the Pantawid Pamilyang Pilipino Program (4Ps)
+chunk_1_table_2.csv,9,Senior Citizen Identification Number,Unique and permanent number indicated in the identification card issued by the Office of the Senior Citizen Affairs (OSCA) of the place where the senior citizen resides.,Republic Act No. 9994: Expanded Senior Citizen's Act of 2010.
+chunk_1_table_2.csv,10,Picture,Raw image/picture of patient,PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_1_table_2.csv,11,Biometric,Biometric data.,
+chunk_1_table_2.csv,12,Other Physical Features,Other physical features.,
+chunk_1_table_2.csv,KONSULTA PROVIDER,,,
+chunk_1_table_2.csv,13,Health Facility,"An institution that has health care as its core service, function or business. Health care pertains to the maintenance or improvement of the health of individuals or populations through the prevention, diagnosis, treatment, rehabilitation and chronic management of disease, illness, injury and other physical and mental ailments or impairments of human beings.",DOH Administrative Order No. 2019-0060: Guidelines on the Implementation of the National Health Facility Registry PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_1_table_2.csv,14,Date As Of,Date of consultation.,PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_1_table_2.csv,15,Civil Status,"Marital status of the client in relation to the current marriage laws and customs in the country, as represented by a code.",1. DOH Hospital Health Information Management Manual 2. Captured in PhilHealth Claim Form 4 3. RA 3753: Registry of Civil Status Act
+chunk_20_table_2.csv,,,Health Data Center,
+chunk_20_table_2.csv,16,Date of Last Update,Date data was last updated,
+chunk_20_table_2.csv,17,Time of Last Update,Time data was last updated,
+chunk_20_table_2.csv,18,"Number of specimen, initial vs. repeat",Number of specimen for initial testing vs. for repeat testing,1. DOH HFDB Manual on Packaging and Transport of Laboratory Specimens for referral 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory 3. DOH HFDB Manual of Standards on Laboratory Biosafety and Biosecurity 4. DOH DM 2018 -0413: Interim Guidelines on Transportation of Biological Specimens
+chunk_20_table_2.csv,19,Health Status at Consult,Health status of the patient during consult as to asymptomatic/mild/moderate/critical/severe,DOH AO 2020-0013: Inclusion of COVID-19 in the List of Notifiable Diseases
+chunk_20_table_2.csv,20,Outcome,"Outcome of the case as to: · Active . Recovered, Date of Recovery (mm/dd/yyyy) . Died, Cause of Death, Date of Death (mm/dd/yyyy)",
+chunk_20_table_2.csv,LABORATORY: BLOOD RESULTS,,,
+chunk_20_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_20_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_20_table_2.csv,3,PhilHealth Identification Number,A unique and permanent number issued to any client upon enrolment/membership,1. DOH Administrative Order 2013-0025: National Implementation of Health Data
+chunk_21_table_2.csv,26,Percentage Value of Platelet in Leukocyte Differential,Percentage value of Platelet in Leukocyte differential,
+chunk_21_table_2.csv,27,Status of Laboratory/Imaging Results,Status of laboratory/imaging Results,
+chunk_21_table_2.csv,28,Diagnostic Lab Fee,Diagnostic laboratory test fee,DOH AO 2008-0002: Posting of Schedule of Fees for Laboratory and Other
+chunk_21_table_2.csv,29,Date of Initial Transmission,Date data was transmitted to National Health Data Center,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_21_table_2.csv,30,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_21_table_2.csv,31,Date of Last Update,Date data was last updated,
+chunk_21_table_2.csv,32,Time of Last Update,Time data was last updated,
+chunk_21_table_2.csv,LABORATORY: FECALYSIS RESULTS,,,
+chunk_21_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a codc.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_21_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOHI AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_21_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_21_table_2.csv,4,Specimen Reference #,Laboratory Reference # of the specimen,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_21_table_2.csv,5,Result Reference #,Test result reference #,
+chunk_21_table_2.csv,6,Date of Result,Date the result was released,
+chunk_21_table_2.csv,7,Time of Result,Time the result was released,
+chunk_21_table_2.csv,8,Refer to the Color of Stool,The color of the stool,
+chunk_21_table_2.csv,9,Refer to the Consistency of Stool,The consistency of the stool,
+chunk_22_table_2.csv,4,Specimen Reference #,Laboratory Reference # of the specimen,1. DOH AO 2012-0021: National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_22_table_2.csv,5,Result Reference #,Test result reference #,
+chunk_22_table_2.csv,6,Date of Result,Date the result was released,
+chunk_22_table_2.csv,7,Time of Result,Time the result was released,
+chunk_22_table_2.csv,8,Findings/ Result in Creatinine (mg/dL),Findings/ result in Creatinine (mg/dL),
+chunk_22_table_2.csv,9,Date the Record was Added,Date the record was added,
+chunk_22_table_2.csv,10,Status of Laboratory/ Imaging Results,Status of Laboratory/Imaging Results,
+chunk_22_table_2.csv,11,Diagnostic Lab Fee 1,Diagnostic Lab Fee,DOH AO 2008-0002 Posting of Schedule of Fees for Laboratory and Other
+chunk_22_table_2.csv,12,Date of Initial Transmission,Date data was transmitted to National Health Data Center,1. DOH AO 2012-0021: | National Health Laboratory Network 2. DOH HFDB Manual of Standards on Quality Management System in the Clinical Laboratory
+chunk_22_table_2.csv,13,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_22_table_2.csv,14,Date of Last Update,Date data was last updated,
+chunk_22_table_2.csv,15,Time of Last Update,Time data was last updated,
+chunk_22_table_2.csv,LABORATORY: FASTING BLOOD SUGAR,,,
+chunk_22_table_2.csv,İ,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_22_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_22_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_23_table_2.csv,6,Date of Result,Date the result was released,
+chunk_23_table_2.csv,7,Time of Result,Time the result was released,
+chunk_23_table_2.csv,8,Specific Gravity of Urine,Specific Gravity of Urine,
+chunk_23_table_2.csv,9,Appearance of Urine,Appearance of Urine,
+chunk_23_table_2.csv,10,Color of Urine,Color of Urine,
+chunk_23_table_2.csv,11,Count of Glucose in Urine,Count of Glucose in Urine,
+chunk_23_table_2.csv,12,Count of Proteins in Urine,Count of Proteins in Urine,
+chunk_23_table_2.csv,13,Count of Ketones in Urine,Count of Ketones in Urine,
+chunk_23_table_2.csv,14,Count of PH in Urine,Count of PH in Urine,
+chunk_23_table_2.csv,15,Count of Red Blood Cells in Urine (/hpf),Count of Red Blood Cells in Urine (/hpf),
+chunk_23_table_2.csv,16,Count of White Blood Cells in Urine (/hpf),Count of White Blood Cells in Urine (hpf),
+chunk_23_table_2.csv,17,Count of Bacteria in Urine (/hpf),Count of Bacteria in Urine (/hpf),
+chunk_23_table_2.csv,18,Count of Crystals in Urine (/hpf),Count of Crystals in Urine (/hpf),
+chunk_23_table_2.csv,19,Count of Bladder Cells in Urine (/hpf),Count of Bladder Cells in Urine (/hpf),
+chunk_23_table_2.csv,20,Count of Squamous Cells in Urine (/hpf),Count of Squamous Cells in Urine (/hpf),
+chunk_23_table_2.csv,21,Count of Tubular Cells in Urine (/hpf),Count of Tubular Cells in Urine (/hpf),
+chunk_23_table_2.csv,22,Count of Broad Cast in Urine (/hpf),Count of Broad Cast in Urine (/hpf),
+chunk_23_table_2.csv,23,Count of Epithelial Cell Casts in Urine (/hpf),Count of Epithelial Cell Casts in Urine (/hpf),
+chunk_23_table_2.csv,24,Count of Granular Casts in Urine (/hpf),Count of Granular Casts in Urine (/hpf),
+chunk_23_table_2.csv,25,Count of Hyaline Casts in Urine (/hpf),Count of Hyaline Casts in Urine (/hpf),
+chunk_23_table_2.csv,26,Count of RBC Casts in Urine (/hpf),Count of RBC Casts in Urine (/hpf),
+chunk_23_table_2.csv,27,Count of Waxy Casts in Urine (/hpf),Count of Waxy Casts in Urine (/hpf),
+chunk_23_table_2.csv,28,Count of WC Casts in Urine (/hpf),Count of WC Casts in Urine (/hpf),
+chunk_23_table_2.csv,29,Count of Albumin in Urine (/mg/dl),Count of Albumin in Urine (/mg/dl),
+chunk_23_table_2.csv,30,Count of PUS Cell,Count of PUS Cell,
+chunk_23_table_2.csv,31,Date the Record was Added,Date the Record was Added,
+chunk_23_table_2.csv,32,Status of Laboratory/ Imaging Results,Status of laboratory/Imaging results,
+chunk_26_table_2.csv,,,Facility Registry (NHFR).,Facility Registry
+chunk_26_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_26_table_2.csv,4,Procedure Code / Examination Code,"An action that is or was performed on or for a patient as represented by a code. This can be a physical intervention like an operation, or less invasive like long term services, counseling, or hypnotherapy.",PhilHealth Claims Forms.
+chunk_26_table_2.csv,5,Date of Procedure,Date the procedure was performed,
+chunk_26_table_2.csv,6,Time of Procedure,Time the procedure was performed,
+chunk_26_table_2.csv,7,Procedure Description,Description of Procedure/Operation,
+chunk_26_table_2.csv,8,PhilHealth RVS Code,PhilHealth RVS Code *Transition to CPT Code,
+chunk_26_table_2.csv,9,RVS Description,PhilHealth RVS Description *CPT Code Description,
+chunk_26_table_2.csv,10,Laterality,PhilHealth Code: Left / Right / Both,
+chunk_26_table_2.csv,11,PhilHealth Accreditation #,Health Care Professional Accreditation,
+chunk_26_table_2.csv,12,Body Site,Body site as represented by a code.,
+chunk_26_table_2.csv,13,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_26_table_2.csv,14,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_26_table_2.csv,15,Date of Last Update,Date data was last updated,
+chunk_26_table_2.csv,16,Time of Last Update,Time data was last updated,
+chunk_26_table_2.csv,PROCEDURE/EXAMINATION: CHEST X-RAY,,,
+chunk_26_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All
+chunk_27_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",
+chunk_27_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,
+chunk_27_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",
+chunk_27_table_2.csv,4,Procedure Code,Procedure Code,
+chunk_27_table_2.csv,5,Result Reference #,Result Reference #,
+chunk_27_table_2.csv,6,Date of Result,Date of Result,
+chunk_27_table_2.csv,7,Time of Result,Time of Result,
+chunk_27_table_2.csv,8,Findings/Result of ECG Laboratory,Findings/Result of ECG Laboratory,
+chunk_27_table_2.csv,9,Remarks if with Findings,Remarks if with Findings,
+chunk_27_table_2.csv,10,Date the Record was Added,Date the Record was Added,
+chunk_27_table_2.csv,11,Status of Laboratory/ Imaging Results,Status of Laboratory/Imaging Results,
+chunk_27_table_2.csv,12,Diagnostic Lab Fee,Diagnostic Lab Fee,
+chunk_27_table_2.csv,13,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_27_table_2.csv,14,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_27_table_2.csv,15,Date of Last Update,Date data was last updated,
+chunk_27_table_2.csv,16,Time of Last Update,Time data was last updated,
+chunk_28_table_2.csv,,,,Field Health Services Data to the DOH Central Office.
+chunk_28_table_2.csv,HEALTH CARE PROFESSIONAL,,,
+chunk_28_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_28_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_28_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (cHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_28_table_2.csv,4,PhilHealth Accreditation #,PhilHealth-issued accreditation number to the healthcare professional.,1. DOH Hospital Health Information Management Manual 2. PhilHealth eClaims Forms.
+chunk_28_table_2.csv,Healthcare Professional Name,,,
+chunk_28_table_2.csv,5,Last Name,Legal last name of the healthcare professional,1. DOH Hospital Health Information Management Manual 2. PhilHealth eClaims Forms.
+chunk_28_table_2.csv,6,First Name,Legal first name of the healthcare professional,
+chunk_28_table_2.csv,7,Middle Name,Legal middle name of the healthcare professional,
+chunk_28_table_2.csv,8,Suffix/Extension Name,"Additional term following the Health care professional's name. Examples are Jr., Sr., III, and others",
+chunk_28_table_2.csv,9,Healthcare Professional Category,Category of healthcare professional as represented by a code.,
+chunk_29_table_2.csv,6,Total Health Care Institution Fees,Total Health Care Institution Fees,
+chunk_29_table_2.csv,7,Total Professional Fees,Total Professional Fees,
+chunk_29_table_2.csv,8,Grand Total,Total Health Care Institution Fees + Total Professional Fees,
+chunk_29_table_2.csv,9,"The benefit of the member/patient was completely consumed prior to co-pay OR the benefit of the member/patient is not completely consumed BUT with purchases/expenses for drugs/medicinos, supplies, diagnostics and others",Yes/No,
+chunk_29_table_2.csv,10,Total Co-payment,Total amount of co-payment.,
+chunk_29_table_2.csv,11,Total Actual Charges* Total Health Care Institution Fees,Total Actual Charges* Total Health Care Institution Fees,
+chunk_29_table_2.csv,12,Total Actual Charges* Total Professional Fees (for accredited and non-accredited professionals),Total Actual Charges* Total Professional Fees (for accredited and non-accredited professionals),
+chunk_29_table_2.csv,13,Amount after Application of Discount,Amount after Application of Discount Total Health Care Institution Fees,
+chunk_29_table_2.csv,14,Amount after Application of Discount,Amount after Application of Discount Total Professional Fees,
+chunk_29_table_2.csv,15,PhilHealth Benefit Total Health Care Institution Fees,PhilHealth Benefit Total Health Care Institution Fees,
+chunk_29_table_2.csv,16,PhilHealth Benefit Total Professional Fees,PhilHealth Benefit Total Professional Fees,
+chunk_29_table_2.csv,17,Total Health Care Institution Fees Amount after PhilHealth deduction,Total Health Care Institution Fees Amount after PhilHealth deduction,
+chunk_29_table_2.csv,18,Total Professional Fees Amount after PhilHealth deduction,Total Professional Fees Amount after PhilHealth deduction,
+chunk_29_table_2.csv,19,"Total cost of purchase/s for
+drugs/medicines and/or medical supplies bought by the patient/member",If with amount,
+chunk_2_table_2.csv,34,First Name,Mother's maiden first name,Manual
+chunk_2_table_2.csv,35,Middle Name,Mother's maiden middle name,
+chunk_2_table_2.csv,36,No Middle Name,Yes/No,
+chunk_2_table_2.csv,Father's Name,,,
+chunk_2_table_2.csv,37,Last Name,Father's legal last name,DOH Hospital Health Information Management Manual
+chunk_2_table_2.csv,38,First Name,Father's legal first name,
+chunk_2_table_2.csv,39,Middle Name,Father's legal middle name,
+chunk_2_table_2.csv,40,Suffix/Extension Name,"Additional term following the patient's full name. Examples are Jr., Sr., III, and others",
+chunk_2_table_2.csv,41,Date of Birth,Patient's date of birth,1. DOH Hospital Health Information Management Manual 2. PhilHealth Claim Form 4 3. Philippine Standard Geographic Code - Philippine Statistics Authority (PSGC- PSA)
+chunk_2_table_2.csv,Place of Birth,,Place where the patient was born,
+chunk_2_table_2.csv,42,City/Municipality,"City/municipality where the patient was born, as represented by a code.",
+chunk_2_table_2.csv,43,Province,"Province where the patient was born, as represented by a code.",
+chunk_2_table_2.csv,44,Country,"Country where the patient was born, as represented by a code.",
+chunk_2_table_2.csv,45,Sex,"Property or quality in which a patient is classified as female or male on the basis of their reproductive organs and functions, as represented by a code.",1. DOH Hospital Health Information Management Manual 2. PhilHealth Claim Form 4
+chunk_2_table_2.csv,46,Nationality,"Legal relationship between a person and a country; Current nationality, as represented by a code.",
+chunk_2_table_2.csv,47,Citizenship,"Legal relationship between a person and a country; Current nationality, as represented by a code.",
+chunk_2_table_2.csv,48,Religion,"An institutionalized or personal system of beliefs and practices relating to the divine, as represented by a code.",DOH Hospital Health Information Management Manual
+chunk_2_table_2.csv,49,"Religion, others specify","If not in the standards, specify.",
+chunk_2_table_2.csv,50,Blood Type,A classification of blood based on the presence or absence of inherited antigenic substances on the surface of red blood cells,
+chunk_30_table_2.csv,,,"identification, eligibility verification, and utilization recording.",2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_30_table_2.csv,4,Disease,Disease as represented by a code.,DOH Hospital Health Information Management Manual 1
+chunk_30_table_2.csv,5,Disease Description,Specific Disease Description,
+chunk_30_table_2.csv,6,Present Illness,Present Illness,
+chunk_30_table_2.csv,7,Co-morbidities,Co-morbidities,
+chunk_30_table_2.csv,8,Pertinent Past Medical History,Pertinent Past Medical History,
+chunk_30_table_2.csv,9,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_30_table_2.csv,10,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_30_table_2.csv,11,Date of Last Update,Date data was last updated,
+chunk_30_table_2.csv,12,Time of Last Update,Time data was last updated,
+chunk_30_table_2.csv,FAMILY MEMBER HISTORY,,,
+chunk_30_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_30_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_30_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_30_table_2.csv,4,Disease Code,Disease Code - ICD-10,DOH Hospital Health Information
+chunk_31_table_2.csv,,,,"Communicable Diseases, Injury Related Cases, Persons with Disabilities. and Violence Against Women and Children Registry System)"
+chunk_31_table_2.csv,6,Patient is Alcohol Drinker,Is the patient and alcohol drinker?,"DOH AO 2013-0005: National Policy on the Unified Registry Systems of the Department of Health (Chronic Non-Communicable Diseases, Injury Related Cases, Persons with Disabilities. and Violence Against Women and Children Registry System)"
+chunk_31_table_2.csv,7,Number of bottles consumed per day,- number of bottles consumed by the patient per day,
+chunk_31_table_2.csv,8,Patient is an illicit drug user,Is the patient using an illicit drug user?,DOH AO 2008- 0025: Guidelines on the Implementation of the Integrated Drug Test Operations and Management Information System ([DTOMIS) for Screening and Confirmatory Drug Test Laboratory Operation
+chunk_31_table_2.csv,9,Patient is Sexually Active,Yes/No,IRR of RA 10354: Responsible Parenthood and Reproductive Health Act of 2012
+chunk_31_table_2.csv,10,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_31_table_2.csv,11,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_31_table_2.csv,12,Date of Last Update,Date data was last updated,
+chunk_31_table_2.csv,13,Time of Last Update,Time data was last updated,
+chunk_31_table_2.csv,ADVERSE EVENT,,,
+chunk_31_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_31_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_31_table_2.csv,3,PhilHealth Identification Number,A unique and permanent number issued to any client upon enrolment/membership,1. DOH Administrative Order 2013-0025: National Implementation of Health Data
+chunk_32_table_2.csv,,,"identification, eligibility verification, and utilization recording.",2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_32_table_2.csv,4,"Pertinent Signs and Symptoms on Admission, Others specify","Pertinent Signs and Symptoms on Admission, Others specify",DOH Hospital Health Information Management Manual
+chunk_32_table_2.csv,5,Pain - Site,Pain Site Code,
+chunk_32_table_2.csv,6,Pain - Site Remarks,Pain Site Remarks,
+chunk_32_table_2.csv,7,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_32_table_2.csv,8,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_32_table_2.csv,9,Date of Last Update,Date data was last updated,
+chunk_32_table_2.csv,10,Time of Last Update,Time data was last updated,
+chunk_32_table_2.csv,PHYSICAL EXAMINATION,,,
+chunk_32_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_32_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_32_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_32_table_2.csv,4,General Survey,"General Survey Code: Awake and Alert, Altered Sensorium - On Admission",DOH Hospital Health Information Management Manual
+chunk_32_table_2.csv,5,General Survey Description,Description or Remarks,
+chunk_32_table_2.csv,6,System Type,"Code for Chest/Lungs, CVS, Abdomen, GU (IE), Skin Extremities, Neuro- Exam/Neurological. HEENT. Heart.",
+chunk_33_table_2.csv,,,"coordination, Others",
+chunk_33_table_2.csv,14,Location of Palpable Mass -If Palpable Mass is Selected in Heent,Location of palpable mass -If palpable mass is selected in Heent,
+chunk_33_table_2.csv,15,Description of Deformity and Laterality -If Present / Absent is selected under Extremities,Description of deformity and laterality -If present / absent is selected under extremities,
+chunk_33_table_2.csv,16,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_33_table_2.csv,17,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_33_table_2.csv,18,Date of Last Update,Date data was last updated,
+chunk_33_table_2.csv,19,Time of Last Update,Time data was last updated,
+chunk_34_table_2.csv,14,"Duration of Intake - Frequency, Other Specify","Duration of intake - Frequency, Other Specify",
+chunk_34_table_2.csv,15,Total Quantity of Drugs/Medicines - Frequency,Total quantity of drugs/ medicines prescribed to the patient,
+chunk_34_table_2.csv,16,Total Quantity or Number of Drugs/Medicines Prescribed,Total quantity or number of drugs/medicines prescribed,
+chunk_34_table_2.csv,17,Intended Purpose of the Prescribed Medicine,Intended purpose of the prescribed medicine,
+chunk_34_table_2.csv,18,Other Instructions,Other instructions for taking the medications,
+chunk_34_table_2.csv,19,Number of Medicines Given,Number of Medicines Given,
+chunk_34_table_2.csv,20,Unit Price,Unit Price,
+chunk_34_table_2.csv,21,Total Amount / Price of Medicine,Quantity or # of Medicines Given * Unit Price,
+chunk_34_table_2.csv,22,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_34_table_2.csv,23,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_34_table_2.csv,24,Date of Last Update,Date data was last updated,
+chunk_34_table_2.csv,25,Time of Last Update,Time data was last updated,
+chunk_34_table_2.csv,VITAL SIGNS,,,
+chunk_34_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_34_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_34_table_2.csv,3,PhilHealth Identification Number,A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance,1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization
+chunk_35_table_2.csv,15,Hip of Patient in cm -For Pediatric Patient only 0-24 Months,The measurement of the patient's hip in cm -For pediatric patient only (0-24 months),
+chunk_35_table_2.csv,16,Limbs of Patient in cm -For Pediatric Patient only 0-24 Months,The measurement of the patient's limbs in cm -For pediatric patient only (0-24 months),
+chunk_35_table_2.csv,17,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_35_table_2.csv,18,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_35_table_2.csv,19,Date of Last Update,Date data was last updated,
+chunk_35_table_2.csv,20,Time of Last Update,Time data was last updated,
+chunk_35_table_2.csv,SOAP - Consultation,,,
+chunk_35_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",
+chunk_35_table_2.csv,2,SOAP Date,Date the SOAP was filled out,
+chunk_35_table_2.csv,3,SOAP Time,Time the SOAP was filled out,
+chunk_35_table_2.csv,4,Subjective,Subjective symptoms experienced by the patient,
+chunk_35_table_2.csv,5,Objective,Objective signs observed by the health professional,
+chunk_35_table_2.csv,6,Assessment,Assessment made by the health professional,
+chunk_35_table_2.csv,7,Plan,Plan code based on standards,
+chunk_35_table_2.csv,8,Plan Description,Textual description,
+chunk_35_table_2.csv,9,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_35_table_2.csv,10,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_36_table_2.csv,,,"PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",the Primary Care Benefit to Cover All Filipinos
+chunk_36_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_36_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhillIcalth Membership Registration and Claims Forms.
+chunk_36_table_2.csv,4,Type of Hypertension,Type of Hypertension Code,1. DOH Hospital Health Information Management Manual 2. DOH AO 2013-0005: National Policy on the Unified Registry Systems of the Department of Health (Chronic Non- Communicable Diseases. Injury Related Cases. Persons with Disabilities. and Violence Against Women and Children Registry System)
+chunk_36_table_2.csv,5,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_36_table_2.csv,6,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_36_table_2.csv,7,Date of Last Update,Date data was last updated,
+chunk_36_table_2.csv,8,Time of Last Update,Time data was last updated,
+chunk_36_table_2.csv,DISEASE REGISTRY - STROKE,,,
+chunk_36_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_36_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_36_table_2.csv,3,PhilHealth Identification Number,A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance,1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization
+chunk_37_table_2.csv,7,Time of Initial Transmission,Time data was transmitted to National Health Data Center,"Communicable Diseases, Injury Related Cases, Persons with Disabilities. and Violence Against Women and Children Registry System)"
+chunk_37_table_2.csv,8,Date of Last Update,Date data was last updated,
+chunk_37_table_2.csv,9,Time of Last Update,Time data was last updated,
+chunk_37_table_2.csv,DISEASE REGISTRY - CHRONIC OBSTRUCTIVE PULMONARY DISEASE,,,
+chunk_37_table_2.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_37_table_2.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_37_table_2.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1.DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHISI Release 001). 2.Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_37_table_2.csv,4,GOLD Classification,GOLD Classification Code,"1. DOH Hospital Health Information Management Manual 2. DOH AO 2013-0005: National Policy on the Unified Registry Systems of the Department of Health (Chronic Non-Communicable Diseases, Injury Related Cases, Persons with Disabilities. and Violence Against Women and Children Registry System)"
+chunk_37_table_2.csv,5,COPD Group,COPD Group Code,
+chunk_37_table_2.csv,6,History,,
+chunk_37_table_2.csv,7,Smoking,Is the patient a smoker?,RA 9211: Tobacco Regulation Act of 2003 DOH Administrative Order No. 122 s. 2003: A Smoking Cessation Program to support the National Tobacco Control & Healthy Lifestyle Program
+chunk_39_table_2.csv,3,Address: City/Municipality,City or municipality where the facility is located.,
+chunk_39_table_2.csv,4,District/ Province,District / Province where the health facility is located.,
+chunk_39_table_2.csv,5,Region,Administrative region where the health facility is located.,
+chunk_39_table_2.csv,6,Contact Number,Landline telephone or Cellphone number at which the health facility can be contacted.,
+chunk_39_table_2.csv,7,Email Address,"Email address of the hospital, if any.",
+chunk_39_table_2.csv,8,Service Capability,"Capability of a hospital/other health facility to render administrative, clinical, ancillary and other services",
+chunk_39_table_2.csv,9,Nature of Ownership,"Refers to the legal right of an individual, group, corporation or government to the possession",
+chunk_39_table_2.csv,10,Quality Management 1 Quality Assurance Program,Organized set of activities designed to demonstrate on-going assessment of important aspects of patient care and services,
+chunk_39_table_2.csv,11,Authorized Bed Capacity,"Approved number of beds issued by Health Facilities and Services Regulatory Bureau, the licensing offices of DOH",
+chunk_39_table_2.csv,12,Implementing Beds,Actual beds used (based on hospital management decision),
+chunk_39_table_2.csv,13,Bed Occupancy Rate (BOR),The percentage of inpatient beds occupied over a given period of time. (given period of time is January 1 to December 31 each year for the annual statistics),
+chunk_39_table_2.csv,,,Total Inpatient service days for the period (Total number of Authorized beds) x Total days in the period (365 or 366 for a leap vear),
+chunk_3_table_2.csv,65,Lot/Block/Phase/House #,Lot/Block/Phase/House # indicated in the mailing/current address.,
+chunk_3_table_2.csv,66,Street Name,Street name indicated in the mailing/current address.,
+chunk_3_table_2.csv,67,Subdivision,Subdivision indicated in the mailing/current address.,
+chunk_3_table_2.csv,68,Barangay,"Barangay indicated in the mailing/current address, as represented by a code.",
+chunk_3_table_2.csv,69,Municipality/City,"Municipality/city indicated in the mailing/current address, as represented by a code.",
+chunk_3_table_2.csv,70,Province,"Province indicated in the mailing/current address, as represented by a code.",
+chunk_3_table_2.csv,71,Region,"Region indicated in the mailing/current address, as represented by a code.",
+chunk_3_table_2.csv,72,State,"State indicated in the mailing/current address, as represented by a code.",
+chunk_3_table_2.csv,73,Country,"Country indicated in the mailing/current address, as represented by a code.",
+chunk_3_table_2.csv,74,Zip Code,"Zip Code indicated in the mailing/current address, as represented by a code.",
+chunk_3_table_2.csv,Contact Numbers,,,
+chunk_3_table_2.csv,75,Home Phone Number,Landline telephone number at which the patient can be contacted,DOH Hospital Health Information Management Manual
+chunk_3_table_2.csv,76,Mobile Phone Number,Cellphone number at which the client can be contacted as well as can be used for SMS application,
+chunk_3_table_2.csv,77,Business Phone Number - Direct,Business phone number at which the client can be contacted,Captured in PhilHealth Member Registration & Claim Forms.
+chunk_3_table_2.csv,78,Email Address,Email address at which the patient can be contacted,
+chunk_3_table_2.csv,Occupation/Profession,,Text description of the current patient's work,Captured in PhilHealth Member Registration & Claim Forms.
+chunk_40_table_2.csv,20,Total number of inpatients transferred from this facility to another facility for inpatient care,Total number of inpatients transferred from this facility to another facility for inpatient care (given period of time is January 1 to December 31st of the reporting year),
+chunk_40_table_2.csv,21,Total number of patients remaining in the hospital as of midnight last day of previous year,Total number of patients remaining in the hospital as of midnight last day (December 31st) of previous year to the following year (January 1),
+chunk_40_table_2.csv,22,Type of Service,Type of service as represented by a code.,
+chunk_40_table_2.csv,23,No. of Patients,The measure the number of in-patients in the services of the hospital,
+chunk_40_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_40_table_2.csv,24,Type of Accommodation,Type of Accommodation used by the in- patients during admission,
+chunk_40_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_40_table_2.csv,25,Condition on Discharge,The condition of the patient upon discharge (given period of time is January 1 to December 31st of the reporting year),
+chunk_40_table_2.csv,26,Deaths,Total No. of patients who died in the health facility as of midnight last day (December 31st) of previous year to the following year (January 1),
+chunk_40_table_2.csv,27,Average Length of Stay,Average number of days each inpatient stays in the hospital for each episode of care (given period of time is January 1 to December 31st of the reporting year),
+chunk_40_table_2.csv,28,,Total length of stay of discharged patients (including deaths in the period),
+chunk_41_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_2.csv,35,"Number of outpatient visits, pediatric",Total number of pediatric outpatient visits (Age 0 to 18 years old; before 19th birthday) (given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_2.csv,36,Number of adult general medicine outpatient visits 1,Total number of adult general medicine outpatient visits,
+chunk_41_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_2.csv,37,Number of specialty (non-surgical) outpatient visits,Total number of specialty/ non-surgical outpatient visits.,
+chunk_41_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_2.csv,38,Number of surgical outpatient visits,Total number of surgical outpatients visits.,
+chunk_41_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_2.csv,39,Number of antenatal care visits,Total number of antenatal care visits (given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_2.csv,40,Number of postnatal care visits,Total number of postnatal care visits. (given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_2.csv,41,Ten Leading OPD Consultation,Ten leading causes of OPD consultation.,
+chunk_41_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_41_table_2.csv,42,Ten Leading Causes of ER Consultations,Top 10 leading causes of ER Consultations (given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_2.csv,50,Total deaths < 48 hours,Total number of deaths of patients that died within 48 hours after admission.,
+chunk_42_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_2.csv,51 1,Total deaths > 48 hours,Total number of deaths of patients that died after 48 hours after admission.,
+chunk_42_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_2.csv,52,Total number of emergency room deaths,Total number of patients who arrived in the healthcare facility breathing and showed evidence of life but died after a short period of time.,
+chunk_42_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_2.csv,53,Total number of cases declared 'dead on arrival,Refers to the condition in which a patient arrived in a healthcare facility with no life processes and is pronounced dead by a physician.,
+chunk_42_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_2.csv,54,Total number of stillbirths,Total number of babies born with no signs of life at or after 28 weeks' gestation.,
+chunk_42_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_42_table_2.csv,55,Total number of neonatal deaths,Total number of a newborn patient from birth up to 28 days of life,
+chunk_42_table_2.csv,,,(given period of time is January 1 to December 31st of the reporting year),
+chunk_43_table_2.csv,61,Infection rate,Risk of an infection in a population. It is used to measure the frequency of occurrence of new instances of infection within a population during a specific time period. Number of Healthcare Associated Infections over Number of Discharges. Multiply quotient to 100%,
+chunk_43_table_2.csv,62,Ventilator Acquired Pneumonia,Incidence of patients that acquire pneumonia occurring more than 48 hours after patients have been intubated and received mechanical ventilation.,
+chunk_43_table_2.csv,,,Number of Patients with VAP,
+chunk_43_table_2.csv,,,Total Number of Ventilator Days Multiply quotient to 1000%,
+chunk_43_table_2.csv,63,Blood Stream Infection,Incidence of patients acquiring Blood stream infection resulted from health interventions during stay in the health facility,
+chunk_43_table_2.csv,,,Number of Patients with BSI,
+chunk_43_table_2.csv,,,Total Number of Central Line (peripheral lines not included) Multiply quotient to 1000%.,
+chunk_43_table_2.csv,64,Urinary Tract Infection (UTI),Incidence of patients acquiring UTI as a result of insertion of a catheter,
+chunk_43_table_2.csv,,,Number of Patients (with catheter) with UTI Total Number of Catheter Days Multiply quotient to 1000%,
+chunk_43_table_2.csv,65,Surgical Site Infection,Incidence of patients acquiring a surgical site infection resulted from health interventions after surgery,
+chunk_44_table_2.csv,74,Total amount spent on medical supplies,Total amount spent for procurement and purchase of medical supplies for the reporting year,
+chunk_44_table_2.csv,75,Total amount spent on utilities,Total amount spent on utilities for the reporting year,
+chunk_44_table_2.csv,76,Total amount spent on non-medical service,"Total amount spent on other non-medical services such as: security, food service, laundry, waste management for the reporting year",
+chunk_44_table_2.csv,77,Total amount spent on maintenance and other operating expenditures (MOOE) 1,Total amount spent on maintenance and other operating expenditures (MOOE) for the reporting year,
+chunk_44_table_2.csv,78,Amount spent on infrastructure,Amount spent on infrastructure for the reporting year,
+chunk_44_table_2.csv,79,Amount spent on equipment,Amount spent on equipment for the reporting year,
+chunk_44_table_2.csv,80,Total amount spent on capital outlay (CO),Total amount spent on capital outlay (CO) for the reporting year,
+chunk_44_table_2.csv,81,Grand Total,Total expenses of the hospital for the reporting year,
+chunk_44_table_2.csv,Revenues,,,
+chunk_44_table_2.csv,83,Total amount of money received from the Department of Health,Total amount of money received from the Department of Health,
+chunk_44_table_2.csv,84,Total amount of money received from the local government,Total amount of money received from the local government,
+chunk_44_table_2.csv,85,Total amount of money received from donor agencies,"Total amount of money received from donor agencies (for example JICA, USAID, and others)",
+chunk_44_table_2.csv,86,Total amount of money received from private organizations,"Total amount of money received from private organizations (donations from businesses, NGOs, etc.)",
+chunk_44_table_2.csv,87,Total amount of money received from PhilHealth,Total amount of money received/reimbursed from PhilHealth,
+chunk_4_table_2.csv,92,"Alien Certificate of Registration
+Identification Card (ACR I-Card) Number","Alien Certificate of Registration
+Identification Card (ACR I-Card) Number for foreign nationals.",
+chunk_4_table_2.csv,93,Member Type for Indirect Contributor,"Listahan, Pantawid Pamilyang Pilipino Program/Modified Conditional Cash Transfer (4Ps/MCCT), Senior Citizen, Payapa at Masaganang Pamayanan (PAMANA). Killed in Action /Killed in Police Operations (KIA/KIPO), LGU- Sponsored, NGA-Sponsored, Private- Sponsored, Person with Disability, Bangsamoro/Normalization",
+chunk_4_table_2.csv,94,Point of Service Financially Incapable,Yes/No,
+chunk_4_table_2.csv,95,Point of Service Financially Incapable - Date As Of,Point of Service Financially Incapable and Date As Of,
+chunk_4_table_2.csv,96,Financially Incapable,Yes/No,
+chunk_4_table_2.csv,97,Financially Incapable Date As Of,Financially Incapable Date As Of,
+chunk_4_table_2.csv,98,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_4_table_2.csv,99,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
+chunk_4_table_2.csv,100,Date of Last Update,Date data was last updated,
+chunk_4_table_2.csv,101,Time of Last Update,Time data was last updated,
+chunk_5_table_2.csv,17,COVID-19,If the patient is a COVID-19 case or not.,
+chunk_5_table_2.csv,18,Referred From,Yes/No,
+chunk_5_table_2.csv,19,Referred from Health Facility,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR) to the referring health facility.,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_5_table_2.csv,20,Reason for Referral,Reason for Referral Code,1.DOH AO 2020-0013: Inclusion of COVID- 19 in the List of Notifiable Diseases 2.Included in the COVID-19 Case Investigation Form
+chunk_5_table_2.csv,21,"Reason for Referral, Others Specify","Reason for Referral, Others Specify",
+chunk_5_table_2.csv,22,Date of Discharge,Date of Discharge,
+chunk_5_table_2.csv,23,Time of Discharge,Time of Discharge,
+chunk_5_table_2.csv,24,Date of Onset of Illness,Date of Onset of Illness,
+chunk_5_table_2.csv,25,Date of Exposure to Known Case,Date of Exposure to Known Case,
+chunk_5_table_2.csv,26,Disposition,"Type of disposition (i.e. Home, Discharged Against Medical Advice, Absconded, Expired/Died, Transferred/Referred) as represented by a code.",
+chunk_5_table_2.csv,27,Referred To,Yes/No,
+chunk_5_table_2.csv,28,Referred To Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR) to the referral health facility.,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_5_table_2.csv,29,Reason for Transferred/Referral,Reason for Referral Code,1. DOH AO 2020-0013: Inclusion of COVID- 19 in the List of Notifiable Diseases 2. Included in the COVID-19 Case Investigation Form
+chunk_5_table_2.csv,30,"Reason for Transferred/Referral, Others Specify","Reason for Transferred/Referral, Others Specify",
+chunk_5_table_2.csv,31,Date of Death,"If Expired, Date of Death",1. DOH Hospital Health Information Management Manual 2. RA 10625: Philippine Statistics Act
+chunk_6_table_2.csv,49,Middle Name,Legal middle name of the personal granting consent to access.,
+chunk_6_table_2.csv,50,Suffix/Extension Name,"Additional term following the grantor's name Examples are Jr., Sr., III, and others",
+chunk_6_table_2.csv,51,Date Signed,Date the consent was signed,
+chunk_6_table_2.csv,52,Relationship of the representative to the member/patient,"If person granting access is a representative, Relationship Code: Spouse, Sibling, Child, Parent, Others",
+chunk_6_table_2.csv,53,Other Relationship,"If relationship selected is others, describe relationship",
+chunk_6_table_2.csv,54,Reason for signing on behalf of the member/patient,"Reason Code: Patient is incapacitated, Other Reasons",
+chunk_6_table_2.csv,55,"Reason for signing on behalf of the member/patient, Other Reasons","Reason for signing on behalf of the member/patient, Other Reasons",
+chunk_6_table_2.csv,Certification of Consumption of Health Care Institution - Certifying Officer,,,
+chunk_6_table_2.csv,56,Last Name,Legal last name of the certifying officer.,
+chunk_6_table_2.csv,57,First Name,Legal first name of the certifying officer.,
+chunk_6_table_2.csv,58,Middle Name,Legal middle name of the certifying officer.,
+chunk_6_table_2.csv,59,Suffix/Extension Name,"Additional term following the certifying officer's name. Examples are Jr., Sr., III, and others",
+chunk_6_table_2.csv,60,Official Capacity/Designation,Official capacity/designation,
+chunk_6_table_2.csv,61,Date Signed,Date the consent was signed,
+chunk_6_table_2.csv,62,Outcome of Treatment,"Outcome of Treatment Code: Improved, HAMA, Expired,",
+chunk_6_table_2.csv,Certification of Healthcare Professional,,,
+chunk_6_table_2.csv,63,Last Name,Legal last name of the certified healthcare professional.,
+chunk_6_table_2.csv,64,First Name,Legal first name of the certified healthcare professional.,
+chunk_6_table_2.csv,65,Middle Name,Legal middle name of the certified healthcare professional.,
+chunk_7_table_2.csv,,,isolation/quarantine facility. Indicate earliest date of admission if patient was admitted in multiple health facilities.,
+chunk_7_table_2.csv,5,Disposition at Time of Report,Disposition at time of report,
+chunk_7_table_2.csv,6,Health Status at Consult,Health status of the patient at the time of the interview as to asymptomatic/mild/moderate /severe/critical.,
+chunk_7_table_2.csv,7,Date of Onset of Illness,"The date when the signs (i.e. objective clinical finding as determined by a licensed physician) of illness first appeared and/or when the symptom/s (e.g. fever, cough, colds, sore throat, shortness of breath/difficulty breathing) were first felt.",
+chunk_7_table_2.csv,8,Temperature - Fever,Temperature of the patient. Temperature in Centigrade,
+chunk_7_table_2.csv,9,With Cough,"If with cough, yes/no",
+chunk_7_table_2.csv,10,With Sore Throat,"If with sore throat, yes/no",
+chunk_7_table_2.csv,11,With Colds,"If with colds, yes/no",
+chunk_7_table_2.csv,12,With Shortness/Difficulty of Breathing,"If with shortness/difficulty of breathing, yes/no",
+chunk_7_table_2.csv,13,"Other Symptoms, please specify","If with other symptoms, please specify",
+chunk_7_table_2.csv,14,With History of Other Illness,"If with history of other illness, yes/no",
+chunk_7_table_2.csv,15,History of Other Illness,If with other history of other illness,
+chunk_7_table_2.csv,16,Test Done,"Type of COVID-19 test done. RT-PCR (OPS), RT-PCR (NPS), RT-PCR (OPS and NPS), RT-PCR (specimen type), Antigen Test, Antibody Test Others, specify",
+chunk_7_table_2.csv,17,Date Collected,The date when the specimen was collected for testing.,
+chunk_7_table_2.csv,18,Results,Results of the COVID-19 test conducted.,
+chunk_9_table_2.csv,,,categories of RFOs: 1. Overseas Filipino Workers (OFWs) - are overseas Filipinos whose primary reason for being outside the country or for leaving the country is due to a contract of employment in a foreign nation or a vessel flying another nation's flag. 2. Non-Overseas Filipino Workers (Non- OFWs) - are overseas Filipinos whose primary reason for being outside the country is not due to a contract of employment in a foreign nation or a vessel flying another nation's flag.,
+chunk_9_table_2.csv,26,"If yes, indicate country of origin","Country of origin, if yes.",
+chunk_9_table_2.csv,27,Foreign National Traveler,A Foreign National Traveler is a person who is not a naturalized citizen of the country in which they are living/traveling.,
+chunk_9_table_2.csv,28,"If yes, indicate country of origin","Country of origin, if yes.",
+chunk_9_table_2.csv,29,Locally Stranded Individual,"Locally Stranded Individual, if yes or no A Locally Stranded Individual is a foreign national or Filipino citizen (e.g. construction and domestic workers, tourists, students, among others) in a specific locality within the Philippines who have expressed intention to return to their place of residence/home origin. APOR - Authorized Persons Outside Residence.",
+chunk_9_table_2.csv,30,"If yes, indicate city/municipality/province of origin","City/municipality/province of origin, if yes.",
+chunk_9_table_2.csv,31,Lives in closed settings,"Lives in closed settings, if yes or no.",
+chunk_14_table_3.csv,DETECTED ISSUE,,,
+chunk_14_table_3.csv,1,Encounter Code,"Setting and condition in which the encounter takes place. It collectively constitutes health care provider code, PhilHealth identification number of the patient, date and time of encounter, as represented by a code.",PhilHealth Circular 2020-0002: Governing Policies of the Konsultasyong Sulit at Tama (PhilHealth Konsulta) Package: Expansion of the Primary Care Benefit to Cover All Filipinos
+chunk_14_table_3.csv,2,Health Facility Code,DOH-issued unique health facility code as generated from the National Health Facility Registry (NHFR).,DOH AO 2020- 2019-0060: Guidelines on the Implementation of the National Health Facility Registry
+chunk_14_table_3.csv,3,PhilHealth Identification Number,"A unique and permanent number issued to any client upon enrolment/membership registration to the National Health Insurance Program of the Corporation for purposes of identification, eligibility verification, and utilization recording.",1. DOH Administrative Order 2013-0025: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001). 2. Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_14_table_3.csv,4,Detected Issue Category,"Detected issue in terms of food, therapeutic product, drug interaction alert, national health product alert as represented by a code.",Captured in PhilHealth Membership Registration and Claims Forms.
+chunk_14_table_3.csv,5,Category,"Category of detected issue as to food, medication, environment, biological in nature as represented by a code.",
+chunk_14_table_3.csv,6,Category Others,Description if Category is Others,
+chunk_14_table_3.csv,7,Date of Initial Transmission,Date data was transmitted to National Health Data Center,
+chunk_14_table_3.csv,8,Time of Initial Transmission,Time data was transmitted to National Health Data Center,
